@@ -1,0 +1,72 @@
+2022-04-09 11:39:34.1963 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 11:39:34.4692 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 11:39:34.6743 INFO Get Product Type Master List Success
+2022-04-09 11:39:34.8398 INFO Get User Success :bdbl_disbo
+2022-04-09 11:40:23.9701 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 11:40:24.0802 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 11:40:24.3082 INFO Get Product Type Master List Success
+2022-04-09 11:40:24.4623 INFO Get User Success :bdbl_disbo
+2022-04-09 11:40:27.8556 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 11:40:51.3537 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 11:43:13.7989 INFO Get RR List Success
+2022-04-09 11:45:55.5958 INFO Get RR List Success
+2022-04-09 11:51:32.7159 INFO Get NOC Details Success
+2022-04-09 11:51:33.9312 INFO Get NOC Details Success
+2022-04-09 11:56:22.9431 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 11:56:23.3313 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 11:56:23.6200 INFO Get Product Type Master List Success
+2022-04-09 11:56:23.7709 INFO Get User Success :bdbl_dis
+2022-04-09 11:56:32.7380 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 11:56:32.9044 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 11:56:33.2300 INFO Get Product Type Master List Success
+2022-04-09 11:56:33.3733 INFO Get User Success :bdbl_dis
+2022-04-09 11:56:35.5479 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 11:57:04.1627 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 12:02:49.1129 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 12:02:49.5418 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 12:02:49.8569 INFO Get Product Type Master List Success
+2022-04-09 12:02:50.0323 INFO Get User Success :bdbl_disbo
+2022-04-09 12:03:22.5692 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 12:03:22.7178 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 12:03:23.0380 INFO Get Product Type Master List Success
+2022-04-09 12:03:23.1966 INFO Get User Success :bdbl_disbo
+2022-04-09 12:03:29.6937 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 12:04:21.5093 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 12:08:23.0889 INFO Get RR List Success
+2022-04-09 12:12:16.6071 INFO Get RR List Success
+2022-04-09 12:13:15.6663 INFO Get NOC Details Fail:Exception while reading from stream
+2022-04-09 12:13:16.1465 INFO Get Product Type Master List Success
+2022-04-09 12:13:16.2911 INFO Get User Success :bdbl_disbo
+2022-04-09 12:14:38.4646 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 12:18:17.8997 INFO Get RR List Success
+2022-04-09 12:22:08.6399 INFO Get RR List Success
+2022-04-09 12:28:34.3236 INFO Get NOC Details Success
+2022-04-09 12:46:58.7053 INFO Get RR List Success
+2022-04-09 12:47:15.5985 INFO Get NOC Details Success
+2022-04-09 12:47:24.0393 INFO Get NOC Details Success
+2022-04-09 12:47:24.1111 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 12:47:24.1839 INFO Get Balance Request Pass Success
+2022-04-09 12:47:24.3374 INFO Get Product Type Master List Success
+2022-04-09 12:47:24.4141 INFO Get User Success :bdbl_disbo
+2022-04-09 12:48:36.6359 INFO Approve Request Pass Success
+2022-04-09 12:48:36.7577 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 12:48:36.8555 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 12:48:37.0457 INFO Get Product Type Master List Success
+2022-04-09 12:48:37.1428 INFO Get User Success :bdbl_disbo
+2022-04-09 12:48:40.0897 INFO Get User Success :340-Bihar Distillers & Bottlers Pvt. Ltd -Bond Officer
+2022-04-09 15:22:14.9609 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 15:22:15.3634 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 15:22:15.6742 INFO Get Product Type Master List Success
+2022-04-09 15:22:15.8467 INFO Get User Success :bdbl_dis
+2022-04-09 15:22:27.3489 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 15:22:27.5145 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 15:22:27.8330 INFO Get Product Type Master List Success
+2022-04-09 15:22:28.1428 INFO Get User Success :bdbl_dis
+2022-04-09 15:22:30.6817 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 15:22:57.1020 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 15:22:57.2566 INFO Get Dispach Master List Success
+2022-04-09 15:29:59.5844 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-04-09 15:29:59.7401 INFO Get Dispach Master List Success
+2022-04-09 15:31:29.0011 INFO Get VAT Master List Success
+2022-04-09 15:31:29.1840 INFO Get Product Type Master List Success
+2022-04-09 15:31:29.4001 INFO Get User Success :bdbl_dis

@@ -1,0 +1,128 @@
+2022-05-12 16:27:37.7736 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:27:38.2224 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:27:38.4688 INFO Get Product Type Master List Success
+2022-05-12 16:27:38.5625 INFO Get User Success :bhedo
+2022-05-12 16:27:46.4687 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:27:46.7129 INFO Get Product Type Master List Success
+2022-05-12 16:27:46.7821 INFO Get User Success :bhedo
+2022-05-12 16:27:49.0269 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:27:49.1747 INFO Get Allotment List Success
+2022-05-12 16:27:49.3182 INFO Get NOC Sucess:Req/2020-2021/1
+2022-05-12 16:27:49.3845 INFO Get Product Master List Success
+2022-05-12 16:27:49.4502 INFO Get UOM List Success
+2022-05-12 16:27:49.7650 INFO Get Allotment Details Success :22P02: invalid input syntax for integer: "Select"
+2022-05-12 16:29:51.9367 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:29:52.1167 INFO Get Product Type Master List Success
+2022-05-12 16:29:52.2053 INFO Get User Success :bhedo
+2022-05-12 16:29:53.9648 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:29:54.0999 INFO Get Allotment List Success
+2022-05-12 16:29:54.2248 INFO Get NOC Sucess:Req/2020-2021/1
+2022-05-12 16:29:54.2858 INFO Get Product Master List Success
+2022-05-12 16:29:54.3480 INFO Get UOM List Success
+2022-05-12 16:39:49.1208 INFO Get User Fail :-Exception while writing to stream
+2022-05-12 16:40:18.2333 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:40:18.3757 INFO Get Product Type Master List Success
+2022-05-12 16:40:18.4503 INFO Get User Success :bhedo
+2022-05-12 16:40:21.5238 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:40:21.6545 INFO Get Product Type Master List Success
+2022-05-12 16:40:21.7253 INFO Get User Success :bhedo
+2022-05-12 16:40:24.3240 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:40:24.5948 INFO Get Allotment List Success
+2022-05-12 16:40:24.7385 INFO Get NOC Sucess:Req/2022-2023/1
+2022-05-12 16:40:24.8014 INFO Get Product Master List Success
+2022-05-12 16:40:24.8645 INFO Get UOM List Success
+2022-05-12 16:40:26.9321 INFO Get Allotment Details Success
+2022-05-12 16:40:30.6019 INFO Get Product Type Master List Success
+2022-05-12 16:40:30.6711 INFO Get User Success :bhedo
+2022-05-12 16:40:35.6235 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:40:35.7526 INFO Get Product Type Master List Success
+2022-05-12 16:40:35.8219 INFO Get User Success :bhedo
+2022-05-12 16:40:37.5585 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:40:37.6878 INFO Get Allotment List Success
+2022-05-12 16:40:37.8110 INFO Get NOC Sucess:Req/2022-2023/1
+2022-05-12 16:40:37.8751 INFO Get Product Master List Success
+2022-05-12 16:40:37.9381 INFO Get UOM List Success
+2022-05-12 16:40:47.2888 INFO Get Allotment Details Success
+2022-05-12 16:40:49.8722 INFO Get Product Type Master List Success
+2022-05-12 16:40:49.9389 INFO Get User Success :bhedo
+2022-05-12 16:41:03.2733 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:41:03.4051 INFO Get Product Type Master List Success
+2022-05-12 16:41:03.4774 INFO Get User Success :bhedo
+2022-05-12 16:41:05.1216 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:41:05.2513 INFO Get Allotment List Success
+2022-05-12 16:41:05.3599 INFO Get NOC Sucess:Req/2022-2023/1
+2022-05-12 16:41:05.4217 INFO Get Product Master List Success
+2022-05-12 16:41:05.4836 INFO Get UOM List Success
+2022-05-12 16:41:07.2511 INFO Get Allotment Details Success
+2022-05-12 16:41:09.9777 INFO Get Product Type Master List Success
+2022-05-12 16:41:10.0823 INFO Get User Success :bhedo
+2022-05-12 16:44:24.1374 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-05-12 16:44:24.4322 INFO Get Product Type Master List Success
+2022-05-12 16:44:24.5990 INFO Get User Success :bhedo
+2022-05-12 16:51:20.9117 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:51:21.1835 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:51:21.3574 INFO Get Product Type Master List Success
+2022-05-12 16:51:21.4275 INFO Get User Success :bdbl_dis
+2022-05-12 16:51:24.2431 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:51:25.4968 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:51:26.0613 INFO Get Product Type Master List Success
+2022-05-12 16:51:26.1331 INFO Get User Success :bdbl_dis
+2022-05-12 16:51:30.9642 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:51:32.7225 INFO Get VAT Master List Success
+2022-05-12 16:51:32.8363 INFO Get Product Type Master List Success
+2022-05-12 16:51:32.9310 INFO Get User Success :bdbl_dis
+2022-05-12 16:51:46.1946 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:51:46.2728 INFO Get VAT Master List Success
+2022-05-12 16:51:46.4274 INFO Get Product Type Master List Success
+2022-05-12 16:51:46.4951 INFO Get User Success :bdbl_dis
+2022-05-12 16:52:35.8023 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:53:21.3333 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:53:21.4308 INFO Get Product Type Master List Success
+2022-05-12 16:53:21.5074 INFO Get User Success :bdbl_dis
+2022-05-12 16:53:27.2737 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:53:28.9701 INFO Get Product Type Master List Success
+2022-05-12 16:53:29.0401 INFO Get User Success :bdbl_dis
+2022-05-12 16:53:37.0943 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:53:37.4465 INFO Get VAT Master List Success
+2022-05-12 16:53:39.9064 INFO Get Product Type Master List Success
+2022-05-12 16:53:39.9768 INFO Get User Success :bdbl_dis
+2022-05-12 16:53:50.2705 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:53:51.9636 INFO Get Product Type Master List Success
+2022-05-12 16:53:52.0447 INFO Get User Success :bdbl_dis
+2022-05-12 16:54:08.4404 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:54:09.7324 INFO Get VAT Master List Success
+2022-05-12 16:54:09.8020 INFO Get Product Type Master List Success
+2022-05-12 16:54:09.8868 INFO Get User Success :bdbl_dis
+2022-05-12 16:54:12.4818 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:54:12.5465 INFO Get VAT Master List Success
+2022-05-12 16:54:12.6755 INFO Get Product Type Master List Success
+2022-05-12 16:54:12.7471 INFO Get User Success :bdbl_dis
+2022-05-12 16:54:20.9056 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:55:41.9203 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:55:44.1411 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:55:44.2100 INFO Get Product Type Master List Success
+2022-05-12 16:55:44.2814 INFO Get User Success :bdbl_dis
+2022-05-12 16:56:01.0747 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:56:02.3670 INFO Get VAT Master List Success
+2022-05-12 16:56:02.4331 INFO Get Product Type Master List Success
+2022-05-12 16:56:02.5037 INFO Get User Success :bdbl_dis
+2022-05-12 16:56:06.3396 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:56:06.4140 INFO Get VAT Master List Success
+2022-05-12 16:56:06.5469 INFO Get Product Type Master List Success
+2022-05-12 16:56:06.6151 INFO Get User Success :bdbl_dis
+2022-05-12 16:56:18.1325 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:59:19.4525 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 16:59:19.5205 INFO Get Product Type Master List Success
+2022-05-12 16:59:19.5920 INFO Get User Success :bdbl_dis
+2022-05-12 17:02:57.3335 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 17:02:59.3936 INFO Get Product Type Master List Success
+2022-05-12 17:02:59.4850 INFO Get User Success :bdbl_dis
+2022-05-12 17:03:41.6156 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 17:03:43.0213 INFO Get VAT Master List Success
+2022-05-12 17:03:43.1103 INFO Get Product Type Master List Success
+2022-05-12 17:03:43.2045 INFO Get User Success :bdbl_dis
+2022-05-12 17:03:45.2223 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-05-12 17:03:45.2903 INFO Get VAT Master List Success
+2022-05-12 17:03:45.4271 INFO Get Product Type Master List Success
+2022-05-12 17:03:45.4995 INFO Get User Success :bdbl_dis
+2022-05-12 17:04:04.4358 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1

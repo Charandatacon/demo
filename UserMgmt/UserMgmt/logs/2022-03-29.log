@@ -1,0 +1,994 @@
+2022-03-29 09:59:03.6526 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 09:59:03.8581 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 09:59:04.3529 INFO Get Product Type Master List Success
+2022-03-29 09:59:04.4656 INFO Get User Success :kent_lab
+2022-03-29 09:59:19.1501 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 09:59:19.2767 INFO Get Party Master List Success
+2022-03-29 09:59:19.3356 INFO GetFinacListValues Success
+2022-03-29 09:59:22.5769 INFO Get Product Type Master List Success
+2022-03-29 09:59:22.6926 INFO Get User Success :kent_lab
+2022-03-29 09:59:39.6229 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 09:59:39.6737 INFO GetFinacListValues Success
+2022-03-29 09:59:43.1319 INFO Get Users List Success
+2022-03-29 09:59:43.1938 INFO Get Party Master Details Success
+2022-03-29 09:59:45.5285 INFO Get Product Type Master List Success
+2022-03-29 09:59:45.6641 INFO Get User Success :kent_lab
+2022-03-29 10:00:04.4131 INFO Get Party Master Details Success
+2022-03-29 10:00:24.6907 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:00:53.8229 INFO GetFinacListValues Success
+2022-03-29 10:03:22.4596 INFO Get Existing data Fail :openingbalance
+2022-03-29 10:03:25.2877 INFO GetFinacListValues Success
+2022-03-29 10:03:29.2000 INFO Get Existing data Fail :vat_master
+2022-03-29 10:03:29.2712 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:03:29.3735 INFO Get Party Master List Success
+2022-03-29 10:03:29.4257 INFO GetFinacListValues Success
+2022-03-29 10:03:32.5113 INFO Get Product Type Master List Success
+2022-03-29 10:03:32.6098 INFO Get User Success :kent_lab
+2022-03-29 10:04:00.6460 INFO Get User Success :364-Kent Homeopathic Laboratories, Bond Officer
+2022-03-29 10:04:00.7889 INFO Get User Success :364-Kent Homeopathic Laboratories, Bond Officer
+2022-03-29 10:04:00.9006 INFO Get Product Type Master List Success
+2022-03-29 10:04:00.9653 INFO Get User Success :kent_labbo
+2022-03-29 10:04:04.3661 INFO Get User Success :364-Kent Homeopathic Laboratories, Bond Officer
+2022-03-29 10:04:04.4626 INFO Get Party Master List Success
+2022-03-29 10:04:04.5204 INFO GetFinacListValues Success
+2022-03-29 10:04:04.5783 INFO Get Product Type Master List Success
+2022-03-29 10:04:04.6423 INFO Get User Success :kent_labbo
+2022-03-29 10:04:06.2122 INFO Get User Success :364-Kent Homeopathic Laboratories, Bond Officer
+2022-03-29 10:04:06.2702 INFO GetFinacListValues Success
+2022-03-29 10:04:08.5351 INFO Get Users List Success
+2022-03-29 10:04:08.5907 INFO Get Party Master Details Success
+2022-03-29 10:04:10.7160 INFO Get Product Type Master List Success
+2022-03-29 10:04:10.7814 INFO Get User Success :kent_labbo
+2022-03-29 10:04:16.7261 INFO Get User Success :364-Kent Homeopathic Laboratories, Bond Officer
+2022-03-29 10:04:16.8310 INFO Get Party Master List Success
+2022-03-29 10:04:16.8889 INFO GetFinacListValues Success
+2022-03-29 10:04:16.9467 INFO Get Product Type Master List Success
+2022-03-29 10:04:17.0105 INFO Get User Success :kent_labbo
+2022-03-29 10:04:26.1438 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 10:04:26.2876 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 10:04:26.6497 INFO Get Product Type Master List Success
+2022-03-29 10:04:26.7064 INFO Get User Success :hodyco
+2022-03-29 10:04:29.1852 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 10:04:29.2931 INFO Get Party Master List Success
+2022-03-29 10:04:29.3420 INFO GetFinacListValues Success
+2022-03-29 10:04:29.3900 INFO Get Product Type Master List Success
+2022-03-29 10:04:29.4536 INFO Get User Success :hodyco
+2022-03-29 10:05:01.5653 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 10:05:01.6720 INFO Get Party Master List Success
+2022-03-29 10:05:01.7453 INFO GetFinacListValues Success
+2022-03-29 10:05:01.8051 INFO Get Product Type Master List Success
+2022-03-29 10:05:01.8739 INFO Get User Success :hodyco
+2022-03-29 10:05:43.4552 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 10:05:43.5609 INFO Get Party Master List Success
+2022-03-29 10:05:43.6128 INFO GetFinacListValues Success
+2022-03-29 10:05:49.6887 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 10:05:49.8288 INFO Get Party Master List Success
+2022-03-29 10:05:49.8892 INFO GetFinacListValues Success
+2022-03-29 10:06:14.2634 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 10:06:14.3830 INFO Get Party Master List Success
+2022-03-29 10:06:14.4448 INFO GetFinacListValues Success
+2022-03-29 10:06:26.7480 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 10:06:26.8822 INFO Get Party Master List Success
+2022-03-29 10:06:26.9481 INFO GetFinacListValues Success
+2022-03-29 10:07:44.3677 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 10:07:44.5393 INFO Get Party Master List Success
+2022-03-29 10:07:44.6071 INFO GetFinacListValues Success
+2022-03-29 10:10:56.1659 INFO Get Product Type Master List Success
+2022-03-29 10:10:56.2237 INFO Get User Success :hodyco
+2022-03-29 10:11:18.7844 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 10:11:18.8423 INFO GetFinacListValues Success
+2022-03-29 10:11:22.5775 INFO Get Users List Success
+2022-03-29 10:11:22.6713 INFO Get Party Master Details Success
+2022-03-29 10:11:24.2614 INFO Get Product Type Master List Success
+2022-03-29 10:11:24.3501 INFO Get User Success :hodyco
+2022-03-29 10:11:31.8499 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 10:11:31.9825 INFO Get Party Master List Success
+2022-03-29 10:11:32.0304 INFO GetFinacListValues Success
+2022-03-29 10:11:33.0427 INFO Get Product Type Master List Success
+2022-03-29 10:11:33.1075 INFO Get User Success :hodyco
+2022-03-29 10:11:44.8253 INFO Get User Success :101-Commissioner
+2022-03-29 10:11:44.9732 INFO Get User Success :101-Commissioner
+2022-03-29 10:11:45.6474 INFO Get Product Type Master List Success
+2022-03-29 10:11:45.7062 INFO Get User Success :com
+2022-03-29 10:11:49.4088 INFO Get User Success :101-Commissioner
+2022-03-29 10:11:49.5070 INFO Get Party Master List Success
+2022-03-29 10:11:49.5738 INFO GetFinacListValues Success
+2022-03-29 10:11:51.2453 INFO Get Product Type Master List Success
+2022-03-29 10:11:51.3071 INFO Get User Success :com
+2022-03-29 10:11:57.4526 INFO Get User Success :101-Commissioner
+2022-03-29 10:11:57.5234 INFO GetFinacListValues Success
+2022-03-29 10:12:00.0422 INFO Get Users List Success
+2022-03-29 10:12:00.1040 INFO Get Party Master Details Success
+2022-03-29 10:12:02.4763 INFO Get Product Type Master List Success
+2022-03-29 10:12:02.5381 INFO Get User Success :com
+2022-03-29 10:12:10.9556 INFO Get User Success :101-Commissioner
+2022-03-29 10:12:11.0733 INFO Get Party Master List Success
+2022-03-29 10:12:11.1312 INFO GetFinacListValues Success
+2022-03-29 10:12:12.5043 INFO Get Product Type Master List Success
+2022-03-29 10:12:12.5661 INFO Get User Success :com
+2022-03-29 10:12:24.7589 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:12:24.9189 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:12:25.0260 INFO Get Product Type Master List Success
+2022-03-29 10:12:25.1367 INFO Get User Success :kent_lab
+2022-03-29 10:12:28.1887 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:12:32.7257 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 10:12:32.9627 INFO Get Product Type Master List Success
+2022-03-29 10:12:33.0306 INFO Get User Success :kent_lab
+2022-03-29 10:12:39.3103 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:12:44.0363 INFO Get Product Type Master List Success
+2022-03-29 10:12:44.1530 INFO Get User Success :kent_lab
+2022-03-29 10:12:51.4826 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:12:52.8293 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:13:02.1456 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:13:02.2095 INFO Get Allotment List Success
+2022-03-29 10:13:02.2610 INFO Get Product Type Master List Success
+2022-03-29 10:13:02.3681 INFO Get User Success :kent_lab
+2022-03-29 10:13:04.5115 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:13:04.5767 INFO Get Party Master List Success
+2022-03-29 10:13:04.6301 INFO Get Product Master List Success
+2022-03-29 10:13:04.6905 INFO Get Product Type Master List Success
+2022-03-29 10:13:04.7860 INFO Get User Success :kent_lab
+2022-03-29 10:13:11.2490 INFO Get Party Master List Success
+2022-03-29 10:14:52.2813 INFO Insert Allotment Success :-KNT
+2022-03-29 10:14:52.3566 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:14:52.4175 INFO Get Allotment List Success
+2022-03-29 10:14:52.4913 INFO Get Product Type Master List Success
+2022-03-29 10:14:52.5999 INFO Get User Success :kent_lab
+2022-03-29 10:14:54.9519 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:14:55.0150 INFO Get Party Master List Success
+2022-03-29 10:14:55.0736 INFO Get Product Master List Success
+2022-03-29 10:14:55.2033 INFO Get Allotment Details Success
+2022-03-29 10:14:55.4207 INFO Get Party Master List Success
+2022-03-29 10:14:55.5653 INFO Get Product Type Master List Success
+2022-03-29 10:14:55.6361 INFO Get User Success :kent_lab
+2022-03-29 10:15:00.8256 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:15:00.8854 INFO Get Allotment List Success
+2022-03-29 10:15:00.9333 INFO Get Product Type Master List Success
+2022-03-29 10:15:01.0430 INFO Get User Success :kent_lab
+2022-03-29 10:15:02.7383 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:15:04.6771 INFO Get Product Type Master List Success
+2022-03-29 10:15:04.7818 INFO Get User Success :kent_lab
+2022-03-29 10:15:06.9390 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:15:07.0617 INFO Get Allotment List Success
+2022-03-29 10:15:07.1575 INFO Get NOC Sucess:Req/VA/KNT/PER/2022-2023/1
+2022-03-29 10:15:07.2153 INFO Get Product Master List Success
+2022-03-29 10:15:07.2642 INFO Get UOM List Success
+2022-03-29 10:15:07.3170 INFO Get Product Type Master List Success
+2022-03-29 10:15:07.3808 INFO Get User Success :kent_lab
+2022-03-29 10:15:18.2827 INFO Get Allotment Details Success
+2022-03-29 10:15:38.1781 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:15:41.1097 INFO Get Product Type Master List Success
+2022-03-29 10:15:41.2102 INFO Get User Success :kent_lab
+2022-03-29 10:15:43.4682 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:15:46.1819 INFO Get Product Type Master List Success
+2022-03-29 10:15:46.2662 INFO Get User Success :kent_lab
+2022-03-29 10:15:47.9839 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:15:48.1604 INFO Get Product Type Master List Success
+2022-03-29 10:15:48.3303 INFO Get User Success :kent_lab
+2022-03-29 10:15:50.0806 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:15:50.1334 INFO Get License_Type List Success
+2022-03-29 10:15:50.1993 INFO Get License Fee List Success
+2022-03-29 10:15:50.2611 INFO Get State List Success
+2022-03-29 10:15:50.3720 INFO Check WorkFlow List Success
+2022-03-29 10:15:50.4317 INFO Get Product Type Master List Success
+2022-03-29 10:15:50.5653 INFO Get User Success :kent_lab
+2022-03-29 10:15:53.9920 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:15:58.6836 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 10:15:58.9097 INFO Get Product Type Master List Success
+2022-03-29 10:15:58.9762 INFO Get User Success :kent_lab
+2022-03-29 10:16:01.5158 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 10:16:06.9456 INFO Get Allotment List Success
+2022-03-29 10:16:07.0133 INFO Get Product Type Master List Success
+2022-03-29 10:16:07.1238 INFO Get User Success :kent_lab
+2022-03-29 10:16:08.9313 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 10:16:08.9928 INFO Get Allotment List Success
+2022-03-29 10:16:09.0511 INFO Get Product Type Master List Success
+2022-03-29 10:16:09.1591 INFO Get User Success :kent_lab
+2022-03-29 10:16:11.2232 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 10:16:12.5681 INFO Get Allotment List Success
+2022-03-29 10:16:12.6259 INFO Get Product Type Master List Success
+2022-03-29 10:16:12.7369 INFO Get User Success :kent_lab
+2022-03-29 10:16:15.5192 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 10:16:15.5688 INFO Get Product Master List Success
+2022-03-29 10:16:15.6377 INFO Get VAT Master List Success
+2022-03-29 10:16:15.7382 INFO Get VAT Master List Success
+2022-03-29 10:16:15.7914 INFO Get Product Type Master List Success
+2022-03-29 10:16:15.8980 INFO Get User Success :kent_lab
+2022-03-29 10:16:19.5574 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-03-29 10:19:07.7759 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:19:07.9497 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:19:08.3830 INFO Get Product Type Master List Success
+2022-03-29 10:19:08.4892 INFO Get User Success :kent_lab
+2022-03-29 10:21:02.8944 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:21:44.1575 INFO Get Product Type Master List Success
+2022-03-29 10:21:44.2533 INFO Get User Success :kent_lab
+2022-03-29 10:21:47.0327 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:21:47.1558 INFO Get Allotment List Success
+2022-03-29 10:21:47.2525 INFO Get NOC Sucess:Req/VA/KNT/PER/2022-2023/1
+2022-03-29 10:21:47.3166 INFO Get Product Master List Success
+2022-03-29 10:21:47.3657 INFO Get UOM List Success
+2022-03-29 10:21:47.4153 INFO Get Product Type Master List Success
+2022-03-29 10:21:47.5236 INFO Get User Success :kent_lab
+2022-03-29 10:22:09.8348 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:22:11.9744 INFO Get Product Type Master List Success
+2022-03-29 10:22:12.0821 INFO Get User Success :kent_lab
+2022-03-29 10:25:24.2865 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 10:25:24.3471 INFO Get Allotment List Success
+2022-03-29 10:25:24.3969 INFO Get Product Type Master List Success
+2022-03-29 10:25:24.5059 INFO Get User Success :kent_lab
+2022-03-29 10:26:04.2940 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:26:04.4924 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:26:04.6140 INFO Get Product Type Master List Success
+2022-03-29 10:26:04.6768 INFO Get User Success :globus_dis
+2022-03-29 10:26:07.2458 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:30:20.3212 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:30:21.1181 INFO Get Product Type Master List Success
+2022-03-29 10:30:21.2986 INFO Get User Success :globus_dis
+2022-03-29 10:30:24.1216 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:30:26.0331 INFO Get VAT Master List Success
+2022-03-29 10:30:26.0970 INFO Get Product Type Master List Success
+2022-03-29 10:30:26.1588 INFO Get User Success :globus_dis
+2022-03-29 10:30:28.0330 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:30:28.0918 INFO Get VAT Master List Success
+2022-03-29 10:30:30.7648 INFO Get Product Type Master List Success
+2022-03-29 10:30:30.8316 INFO Get User Success :globus_dis
+2022-03-29 10:30:52.8970 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:30:54.3205 INFO Get Form84 List Success
+2022-03-29 10:30:54.3820 INFO Get Product Type Master List Success
+2022-03-29 10:30:54.4481 INFO Get User Success :globus_dis
+2022-03-29 10:30:56.0981 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:30:56.1589 INFO Get VAT Master List Success
+2022-03-29 10:30:56.2277 INFO Get Product Type Master List Success
+2022-03-29 10:30:56.2894 INFO Get User Success :globus_dis
+2022-03-29 10:31:00.8368 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:31:01.6908 INFO Get Product Type Master List Success
+2022-03-29 10:31:01.7566 INFO Get User Success :globus_dis
+2022-03-29 10:31:03.2109 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:31:03.2776 INFO Get VAT Master List Success
+2022-03-29 10:31:03.3317 INFO Get Product Type Master List Success
+2022-03-29 10:31:03.3995 INFO Get User Success :globus_dis
+2022-03-29 10:31:06.2464 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:31:07.9430 INFO Get Form84 List Success
+2022-03-29 10:31:08.0028 INFO Get Product Type Master List Success
+2022-03-29 10:31:08.0646 INFO Get User Success :globus_dis
+2022-03-29 10:31:09.9228 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:31:10.6211 INFO Get Form84 List Success
+2022-03-29 10:31:10.6836 INFO Get Product Type Master List Success
+2022-03-29 10:31:10.7487 INFO Get User Success :globus_dis
+2022-03-29 10:31:12.7596 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:31:12.8315 INFO Get VAT Master List Success
+2022-03-29 10:31:12.8849 INFO Get Product Type Master List Success
+2022-03-29 10:31:12.9502 INFO Get User Success :globus_dis
+2022-03-29 10:31:23.8404 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:31:25.3265 INFO Get Product Type Master List Success
+2022-03-29 10:31:25.3915 INFO Get User Success :globus_dis
+2022-03-29 10:31:33.2717 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:31:34.3328 INFO Get Product Type Master List Success
+2022-03-29 10:31:34.3957 INFO Get User Success :globus_dis
+2022-03-29 10:31:35.9619 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:31:36.0109 INFO Get VAT Master List Success
+2022-03-29 10:31:36.0595 INFO Get Product Type Master List Success
+2022-03-29 10:31:36.1263 INFO Get User Success :globus_dis
+2022-03-29 10:31:38.5110 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:31:40.0559 INFO Get Form84 List Success
+2022-03-29 10:31:40.1052 INFO Get Product Type Master List Success
+2022-03-29 10:31:40.1693 INFO Get User Success :globus_dis
+2022-03-29 10:31:42.2100 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:31:42.2590 INFO Get VAT Master List Success
+2022-03-29 10:31:42.3172 INFO Get Product Type Master List Success
+2022-03-29 10:31:42.3832 INFO Get User Success :globus_dis
+2022-03-29 10:38:07.3076 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:41:42.2669 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:41:42.4796 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:41:42.6087 INFO Get Product Type Master List Success
+2022-03-29 10:41:42.6934 INFO Get User Success :globus_dis
+2022-03-29 10:41:56.6246 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:42:10.2921 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:42:10.8254 INFO Get Product Type Master List Success
+2022-03-29 10:42:10.8882 INFO Get User Success :globus_dis
+2022-03-29 10:42:15.0409 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:42:16.2546 INFO Get VAT Master List Success
+2022-03-29 10:42:16.3193 INFO Get Product Type Master List Success
+2022-03-29 10:42:16.3812 INFO Get User Success :globus_dis
+2022-03-29 10:42:18.5764 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:42:20.1224 INFO Get Form84 List Success
+2022-03-29 10:42:20.1753 INFO Get Product Type Master List Success
+2022-03-29 10:42:20.2391 INFO Get User Success :globus_dis
+2022-03-29 10:42:24.2943 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:42:29.6690 INFO Get VAT Master List Success
+2022-03-29 10:42:29.7258 INFO Get Product Type Master List Success
+2022-03-29 10:42:29.7887 INFO Get User Success :globus_dis
+2022-03-29 10:42:41.1362 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:42:41.1963 INFO Get Product Master List Success
+2022-03-29 10:45:28.4572 INFO Get RR List Success
+2022-03-29 10:45:28.5170 INFO Get Product Type Master List Success
+2022-03-29 10:45:28.6357 INFO Get User Success :globus_dis
+2022-03-29 10:45:35.4530 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:45:35.5128 INFO Get Product Master List Success
+2022-03-29 10:45:35.7333 INFO Get State List Success
+2022-03-29 10:45:35.7921 INFO Get NOC Sucess:1104
+2022-03-29 10:45:35.8899 INFO Get NOC Sucess:Req/VA/GSL/NOC/2022-2023/1
+2022-03-29 10:45:36.0095 INFO Get Product Type Master List Success
+2022-03-29 10:45:36.0733 INFO Get User Success :globus_dis
+2022-03-29 10:45:54.3361 INFO Get Customer Details Success
+2022-03-29 10:47:14.6490 INFO NOC Insertion Sucess:1104-GSL
+2022-03-29 10:47:16.6922 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:47:16.7500 INFO Get Product Master List Success
+2022-03-29 10:50:06.9349 INFO Get RR List Success
+2022-03-29 10:50:07.0140 INFO Get Product Type Master List Success
+2022-03-29 10:50:07.1751 INFO Get User Success :globus_dis
+2022-03-29 10:51:01.7318 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:51:01.7937 INFO Get Product Master List Success
+2022-03-29 10:51:02.2804 INFO Get State List Success
+2022-03-29 10:51:02.3402 INFO Get NOC Sucess:1105
+2022-03-29 10:51:02.4574 INFO Get NOC Sucess:Req/VA/GSL/NOC/2022-2023/2
+2022-03-29 10:51:05.4073 INFO Get NOC Details Success
+2022-03-29 10:51:05.4651 INFO Get Customer Details Success
+2022-03-29 10:51:05.5678 INFO Get Product Type Master List Success
+2022-03-29 10:51:05.6775 INFO Get User Success :globus_dis
+2022-03-29 10:51:16.8246 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 10:51:16.8754 INFO Get Product Master List Success
+2022-03-29 10:54:05.5217 INFO Get RR List Success
+2022-03-29 10:54:05.5697 INFO Get Product Type Master List Success
+2022-03-29 10:54:05.7326 INFO Get User Success :globus_dis
+2022-03-29 10:54:26.7976 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-03-29 10:54:26.9772 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-03-29 10:54:27.2335 INFO Get Product Type Master List Success
+2022-03-29 10:54:27.3402 INFO Get User Success :bhedo
+2022-03-29 10:54:32.6706 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-03-29 10:54:32.7424 INFO Get Product Master List Success
+2022-03-29 10:54:32.8631 INFO Get User Success :338-Assistant Commissioner, Bhojpur
+2022-03-29 10:54:32.9129 INFO Get Product Master List Success
+2022-03-29 10:54:32.9738 INFO Check WorkFlow List Success
+2022-03-29 10:57:23.9612 INFO Get RR List Success
+2022-03-29 10:57:24.0225 INFO Get Product Type Master List Success
+2022-03-29 10:57:24.1472 INFO Get User Success :bhedo
+2022-03-29 10:58:19.5411 INFO Get User Success :343-Assistant Commissioner, Vaishali
+2022-03-29 10:58:19.6897 INFO Get User Success :343-Assistant Commissioner, Vaishali
+2022-03-29 10:58:19.7422 INFO Get Product Type Master List Success
+2022-03-29 10:58:19.8462 INFO Get User Success :vaedo
+2022-03-29 10:58:26.5951 INFO Get User Success :343-Assistant Commissioner, Vaishali
+2022-03-29 10:58:26.6540 INFO Get Product Master List Success
+2022-03-29 10:58:26.7298 INFO Get User Success :343-Assistant Commissioner, Vaishali
+2022-03-29 10:58:26.7915 INFO Get Product Master List Success
+2022-03-29 10:58:26.8602 INFO Check WorkFlow List Success
+2022-03-29 11:01:51.4664 INFO Get RR List Success
+2022-03-29 11:01:51.5395 INFO Get Product Type Master List Success
+2022-03-29 11:01:51.6465 INFO Get User Success :vaedo
+2022-03-29 11:01:58.1992 INFO Get User Success :343-Assistant Commissioner, Vaishali
+2022-03-29 11:01:58.2927 INFO Get Product Master List Success
+2022-03-29 11:01:58.8297 INFO Get State List Success
+2022-03-29 11:01:58.8777 INFO Get NOC Sucess:1105
+2022-03-29 11:01:58.9957 INFO Get NOC Sucess:Req/2020-2021/1
+2022-03-29 11:01:59.3497 INFO Get State List Success
+2022-03-29 11:02:01.6221 INFO Get NOC Details Success
+2022-03-29 11:02:01.6810 INFO Get Customer Details Success
+2022-03-29 11:02:01.8225 INFO Check WorkFlow List Success
+2022-03-29 11:02:03.4525 INFO Get Product Type Master List Success
+2022-03-29 11:02:03.7978 INFO Get User Success :vaedo
+2022-03-29 11:02:11.5394 INFO Get User Success :343-Assistant Commissioner, Vaishali
+2022-03-29 11:02:11.8215 INFO NOC Approve Sucess:1104
+2022-03-29 11:02:13.8388 INFO Get User Success :343-Assistant Commissioner, Vaishali
+2022-03-29 11:02:13.8973 INFO Get Product Master List Success
+2022-03-29 11:02:14.0029 INFO Get User Success :343-Assistant Commissioner, Vaishali
+2022-03-29 11:02:14.0611 INFO Get Product Master List Success
+2022-03-29 11:02:14.1089 INFO Check WorkFlow List Success
+2022-03-29 11:05:18.2034 INFO Get RR List Success
+2022-03-29 11:05:18.2573 INFO Get Product Type Master List Success
+2022-03-29 11:05:18.3616 INFO Get User Success :vaedo
+2022-03-29 11:05:29.1253 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 11:05:29.2723 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 11:05:29.9452 INFO Get Product Type Master List Success
+2022-03-29 11:05:30.0414 INFO Get User Success :hodyco
+2022-03-29 11:05:36.9968 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 11:05:37.0557 INFO Get Product Master List Success
+2022-03-29 11:05:37.1263 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 11:05:37.1850 INFO Get Product Master List Success
+2022-03-29 11:05:37.2436 INFO Check WorkFlow List Success
+2022-03-29 11:08:32.8330 INFO Get RR List Success
+2022-03-29 11:08:32.8979 INFO Get Product Type Master List Success
+2022-03-29 11:08:33.0128 INFO Get User Success :hodyco
+2022-03-29 11:08:43.2353 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 11:08:43.3305 INFO Get Product Master List Success
+2022-03-29 11:08:43.8605 INFO Get State List Success
+2022-03-29 11:08:43.9185 INFO Get NOC Sucess:1105
+2022-03-29 11:08:44.0332 INFO Get NOC Sucess:Req/2020-2021/1
+2022-03-29 11:08:44.4122 INFO Get State List Success
+2022-03-29 11:08:46.9095 INFO Get NOC Details Success
+2022-03-29 11:08:46.9697 INFO Get Customer Details Success
+2022-03-29 11:08:47.0892 INFO Check WorkFlow List Success
+2022-03-29 11:08:48.5409 INFO Get Product Type Master List Success
+2022-03-29 11:08:48.6105 INFO Get User Success :hodyco
+2022-03-29 11:09:06.9958 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 11:09:07.3374 INFO NOC Approve Sucess:1104
+2022-03-29 11:09:09.6790 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 11:09:09.7346 INFO Get Product Master List Success
+2022-03-29 11:09:09.8069 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 11:09:09.8908 INFO Get Product Master List Success
+2022-03-29 11:09:09.9801 INFO Check WorkFlow List Success
+2022-03-29 11:12:00.9919 INFO Get RR List Success
+2022-03-29 11:12:01.0599 INFO Get Product Type Master List Success
+2022-03-29 11:12:01.2153 INFO Get User Success :hodyco
+2022-03-29 11:12:11.5852 INFO Get User Success :101-Commissioner
+2022-03-29 11:12:11.8023 INFO Get User Success :101-Commissioner
+2022-03-29 11:12:12.5835 INFO Get Product Type Master List Success
+2022-03-29 11:12:12.7230 INFO Get User Success :com
+2022-03-29 11:12:22.0155 INFO Get User Success :101-Commissioner
+2022-03-29 11:12:22.0733 INFO Get Product Master List Success
+2022-03-29 11:12:22.1481 INFO Get User Success :101-Commissioner
+2022-03-29 11:12:22.2183 INFO Get Product Master List Success
+2022-03-29 11:12:22.2782 INFO Check WorkFlow List Success
+2022-03-29 11:15:28.0522 INFO Get RR List Success
+2022-03-29 11:15:28.1167 INFO Get Product Type Master List Success
+2022-03-29 11:15:28.2529 INFO Get User Success :com
+2022-03-29 11:16:10.0760 INFO Get User Success :101-Commissioner
+2022-03-29 11:16:10.1807 INFO Get Product Master List Success
+2022-03-29 11:16:10.6780 INFO Get State List Success
+2022-03-29 11:16:10.7379 INFO Get NOC Sucess:1105
+2022-03-29 11:16:10.8386 INFO Get NOC Sucess:Req/2020-2021/1
+2022-03-29 11:16:11.1570 INFO Get State List Success
+2022-03-29 11:16:13.3121 INFO Get NOC Details Success
+2022-03-29 11:16:13.3640 INFO Get Customer Details Success
+2022-03-29 11:16:13.4964 INFO Check WorkFlow List Success
+2022-03-29 11:16:14.9499 INFO Get Product Type Master List Success
+2022-03-29 11:16:15.0247 INFO Get User Success :com
+2022-03-29 11:16:23.4731 INFO Get User Success :101-Commissioner
+2022-03-29 11:16:23.7115 INFO NOC Approve Sucess:1104
+2022-03-29 11:16:25.7589 INFO Get User Success :101-Commissioner
+2022-03-29 11:16:25.8447 INFO Get Product Master List Success
+2022-03-29 11:16:25.9475 INFO Get User Success :101-Commissioner
+2022-03-29 11:16:26.0095 INFO Get Product Master List Success
+2022-03-29 11:16:26.0963 INFO Check WorkFlow List Success
+2022-03-29 11:19:38.0415 INFO Get RR List Success
+2022-03-29 11:19:38.1034 INFO Get Product Type Master List Success
+2022-03-29 11:19:38.2141 INFO Get User Success :com
+2022-03-29 11:19:49.7145 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 11:19:49.8625 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 11:19:50.5852 INFO Get Product Type Master List Success
+2022-03-29 11:19:50.6501 INFO Get User Success :hodyco
+2022-03-29 11:19:55.7297 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 11:19:55.7916 INFO Get Product Master List Success
+2022-03-29 11:19:55.8703 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 11:19:55.9332 INFO Get Product Master List Success
+2022-03-29 11:19:55.9930 INFO Check WorkFlow List Success
+2022-03-29 11:23:03.7264 INFO Get RR List Success
+2022-03-29 11:23:03.7850 INFO Get Product Type Master List Success
+2022-03-29 11:23:03.9134 INFO Get User Success :hodyco
+2022-03-29 11:23:09.0767 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 11:23:09.1305 INFO Get Product Master List Success
+2022-03-29 11:23:09.1934 INFO Check WorkFlow List Success
+2022-03-29 11:26:01.5779 INFO Get RR List Success
+2022-03-29 11:26:01.6537 INFO Get Product Type Master List Success
+2022-03-29 11:26:01.7571 INFO Get User Success :hodyco
+2022-03-29 11:26:14.8290 INFO Check WorkFlow List Success
+2022-03-29 11:26:15.0774 INFO NOC Approve Sucess:1104
+2022-03-29 11:29:08.8535 INFO Get RR List Success
+2022-03-29 11:29:08.9981 INFO Get Report  Success
+2022-03-29 11:29:09.3149 INFO Get GetSeverList Success
+2022-03-29 11:30:08.2267 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:30:08.3584 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:30:08.5236 INFO Get Product Type Master List Success
+2022-03-29 11:30:08.7499 INFO Get User Success :globus_dis
+2022-03-29 11:30:14.7875 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:30:14.8757 INFO Get Product Master List Success
+2022-03-29 11:33:09.2047 INFO Get RR List Success
+2022-03-29 11:33:09.2578 INFO Get Product Type Master List Success
+2022-03-29 11:33:09.4344 INFO Get User Success :globus_dis
+2022-03-29 11:33:24.9067 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:33:25.0055 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:33:25.2306 INFO Get Product Type Master List Success
+2022-03-29 11:33:25.3763 INFO Get User Success :globus_dis
+2022-03-29 11:33:28.0858 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:33:50.2816 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:33:58.4768 INFO Get Pass List Success
+2022-03-29 11:33:58.5266 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:42:04.8373 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:42:05.0917 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:42:05.2692 INFO Get Product Type Master List Success
+2022-03-29 11:42:05.3629 INFO Get User Success :globus_dis
+2022-03-29 11:42:20.6416 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:42:20.6993 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:42:20.8302 INFO Get Product Type Master List Success
+2022-03-29 11:42:20.8890 INFO Get User Success :globus_dis
+2022-03-29 11:42:24.8893 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:42:37.9512 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:44:24.3654 INFO Get RR List Success
+2022-03-29 11:44:24.4222 INFO Get Product Type Master List Success
+2022-03-29 11:44:24.5269 INFO Get User Success :globus_dis
+2022-03-29 11:44:37.3689 INFO Get NOC Details Success
+2022-03-29 11:44:40.9089 INFO Get NOC Details Success
+2022-03-29 11:44:40.9647 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:44:41.0121 INFO Get Balance Request Pass Success
+2022-03-29 11:45:45.5653 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:45:51.7592 INFO Get Pass List Success
+2022-03-29 11:45:51.8205 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:46:04.6638 INFO Get Product Type Master List Success
+2022-03-29 11:46:04.7201 INFO Get User Success :globus_dis
+2022-03-29 11:46:16.0558 INFO Get Pass List Success
+2022-03-29 11:46:16.1136 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:47:35.9757 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:47:36.0306 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:47:36.1273 INFO Get Product Type Master List Success
+2022-03-29 11:47:36.1832 INFO Get User Success :globus_dis
+2022-03-29 11:47:37.7550 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:47:37.8796 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:47:38.0043 INFO Get Product Type Master List Success
+2022-03-29 11:47:38.0651 INFO Get User Success :globus_dis
+2022-03-29 11:47:44.3120 INFO Get Product Master List Success
+2022-03-29 11:47:56.3911 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:47:56.4409 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:47:56.5516 INFO Get Product Type Master List Success
+2022-03-29 11:47:56.6234 INFO Get User Success :globus_dis
+2022-03-29 11:48:01.6566 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:48:07.9619 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:49:54.2922 INFO Get RR List Success
+2022-03-29 11:49:54.3555 INFO Get Product Type Master List Success
+2022-03-29 11:49:54.4513 INFO Get User Success :globus_dis
+2022-03-29 11:51:17.1664 INFO Get NOC Details Success
+2022-03-29 11:51:25.4724 INFO Get NOC Details Success
+2022-03-29 11:55:52.1018 INFO Get NOC Details Success
+2022-03-29 11:56:06.5754 INFO Get NOC Details Success
+2022-03-29 11:56:18.1128 INFO Get NOC Details Success
+2022-03-29 11:56:24.2051 INFO Get NOC Details Success
+2022-03-29 11:56:31.0164 INFO Get NOC Details Success
+2022-03-29 11:56:35.8895 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:56:43.9043 INFO Get Pass List Success
+2022-03-29 11:56:43.9838 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:56:49.0637 INFO Get Product Type Master List Success
+2022-03-29 11:56:49.1306 INFO Get User Success :globus_dis
+2022-03-29 11:56:57.2615 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:57:02.7264 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:57:03.3433 INFO Get Product Type Master List Success
+2022-03-29 11:57:03.4170 INFO Get User Success :globus_dis
+2022-03-29 11:57:06.2281 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:57:06.3159 INFO Get Product Type Master List Success
+2022-03-29 11:57:06.3987 INFO Get User Success :globus_dis
+2022-03-29 11:57:10.0424 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:57:11.2272 INFO Get Form84 List Success
+2022-03-29 11:57:11.2961 INFO Get Product Type Master List Success
+2022-03-29 11:57:11.3587 INFO Get User Success :globus_dis
+2022-03-29 11:57:14.3184 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:57:15.5809 INFO Get VAT Master List Success
+2022-03-29 11:57:15.6397 INFO Get Product Type Master List Success
+2022-03-29 11:57:15.7175 INFO Get User Success :globus_dis
+2022-03-29 11:57:23.5397 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:57:23.6225 INFO Get VAT Master List Success
+2022-03-29 11:57:26.8819 INFO Get Product Type Master List Success
+2022-03-29 11:57:26.9447 INFO Get User Success :globus_dis
+2022-03-29 11:57:43.9076 INFO Get User Fail :341--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 11:57:44.2633 INFO Get Product Type Master List Success
+2022-03-29 11:57:44.3344 INFO Get User Success :globus_dis
+2022-03-29 11:57:46.2256 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:58:01.6817 INFO Get Product Type Master List Success
+2022-03-29 11:58:01.7491 INFO Get User Success :globus_dis
+2022-03-29 11:58:27.7716 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:58:30.3507 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:58:40.5292 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:58:41.7723 INFO Get VAT Master List Success
+2022-03-29 11:58:41.8225 INFO Get Product Type Master List Success
+2022-03-29 11:58:41.8892 INFO Get User Success :globus_dis
+2022-03-29 11:58:43.9648 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 11:58:44.0283 INFO Get VAT Master List Success
+2022-03-29 12:01:28.5345 INFO Get Product Type Master List Success
+2022-03-29 12:01:28.6135 INFO Get User Success :globus_dis
+2022-03-29 12:02:27.8806 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 12:02:27.9304 INFO Get Product Type Master List Success
+2022-03-29 12:02:27.9863 INFO Get User Success :globus_dis
+2022-03-29 12:02:30.9588 INFO Get User Fail :341--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 12:02:31.2600 INFO Get Product Type Master List Success
+2022-03-29 12:02:31.3188 INFO Get User Success :globus_dis
+2022-03-29 12:02:32.9317 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 12:02:35.1593 INFO Get Product Type Master List Success
+2022-03-29 12:02:35.2116 INFO Get User Success :globus_dis
+2022-03-29 12:05:05.2543 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 12:05:06.8940 INFO Get VAT Master List Success
+2022-03-29 12:05:06.9576 INFO Get Product Type Master List Success
+2022-03-29 12:05:07.0234 INFO Get User Success :globus_dis
+2022-03-29 12:05:08.6075 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 12:05:08.6677 INFO Get VAT Master List Success
+2022-03-29 12:05:11.4426 INFO Get Product Type Master List Success
+2022-03-29 12:05:11.5051 INFO Get User Success :globus_dis
+2022-03-29 12:05:49.4738 INFO Get User Fail :341--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 12:05:49.7940 INFO Get Product Type Master List Success
+2022-03-29 12:05:49.8588 INFO Get User Success :globus_dis
+2022-03-29 12:05:51.6500 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 12:05:53.0357 INFO Get Product Type Master List Success
+2022-03-29 12:05:53.0882 INFO Get User Success :globus_dis
+2022-03-29 12:06:47.1018 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 12:06:47.2791 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 12:06:47.7673 INFO Get Product Type Master List Success
+2022-03-29 12:06:47.8840 INFO Get User Success :kent_lab
+2022-03-29 12:06:53.3709 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 12:06:58.0120 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 12:06:58.2753 INFO Get Product Type Master List Success
+2022-03-29 12:06:58.3292 INFO Get User Success :kent_lab
+2022-03-29 12:07:01.5689 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 12:07:01.9051 INFO Get Product Type Master List Success
+2022-03-29 12:07:01.9675 INFO Get User Success :kent_lab
+2022-03-29 12:07:40.2242 INFO Get MaxID Success :openingbalance
+2022-03-29 12:07:47.4808 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 12:07:47.7450 INFO Get Product Type Master List Success
+2022-03-29 12:07:47.8076 INFO Get User Success :kent_lab
+2022-03-29 12:07:58.3070 INFO Get User Success :364-Kent Homeopathic Laboratories, Bond Officer
+2022-03-29 12:07:58.4412 INFO Get User Success :364-Kent Homeopathic Laboratories, Bond Officer
+2022-03-29 12:07:58.5439 INFO Get Product Type Master List Success
+2022-03-29 12:07:58.6014 INFO Get User Success :kent_labbo
+2022-03-29 12:08:01.5311 INFO Get User Success :364-Kent Homeopathic Laboratories, Bond Officer
+2022-03-29 12:08:06.3647 INFO Get User Fail :364--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 12:08:06.6014 INFO Get Product Type Master List Success
+2022-03-29 12:08:06.6658 INFO Get User Success :kent_labbo
+2022-03-29 12:08:09.0557 INFO Get User Success :364-Kent Homeopathic Laboratories, Bond Officer
+2022-03-29 12:08:09.4845 INFO Get Product Type Master List Success
+2022-03-29 12:08:09.5411 INFO Get User Success :kent_labbo
+2022-03-29 12:08:26.0413 INFO Get User Fail :364--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 12:08:26.3225 INFO Get Product Type Master List Success
+2022-03-29 12:08:26.4023 INFO Get User Success :kent_labbo
+2022-03-29 12:08:33.3277 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 12:08:33.4993 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 12:08:33.6548 INFO Get Product Type Master List Success
+2022-03-29 12:08:33.7964 INFO Get User Success :kent_lab
+2022-03-29 12:08:39.0372 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 12:08:43.3762 INFO Get Product Type Master List Success
+2022-03-29 12:08:43.4459 INFO Get User Success :kent_lab
+2022-03-29 12:08:48.7172 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 12:08:51.3476 INFO Get Allotment List Success
+2022-03-29 12:08:51.4134 INFO Get Product Type Master List Success
+2022-03-29 12:08:51.5421 INFO Get User Success :kent_lab
+2022-03-29 12:08:53.5053 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 12:08:53.5761 INFO Get Product Master List Success
+2022-03-29 12:08:53.7277 INFO Get VAT Master List Success
+2022-03-29 12:08:53.8194 INFO Get VAT Master List Success
+2022-03-29 12:08:53.9062 INFO Get Product Type Master List Success
+2022-03-29 12:08:54.0468 INFO Get User Success :kent_lab
+2022-03-29 12:09:03.3072 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-03-29 12:09:08.3234 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 12:09:10.7107 INFO Get Allotment List Success
+2022-03-29 12:09:10.7710 INFO Get Product Type Master List Success
+2022-03-29 12:09:10.8937 INFO Get User Success :kent_lab
+2022-03-29 12:09:12.2804 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 12:09:12.3442 INFO Get Allotment List Success
+2022-03-29 12:09:12.4051 INFO Get Product Type Master List Success
+2022-03-29 12:09:12.4709 INFO Get User Success :kent_lab
+2022-03-29 12:09:14.2254 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 12:09:14.2863 INFO Get Product Master List Success
+2022-03-29 12:09:14.4409 INFO Get VAT Master List Success
+2022-03-29 12:09:14.5007 INFO Get Product Type Master List Success
+2022-03-29 12:09:14.5865 INFO Get User Success :kent_lab
+2022-03-29 12:09:17.4498 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-03-29 12:09:19.4991 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-03-29 12:09:21.1756 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-03-29 12:09:23.0482 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-03-29 12:09:25.1013 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-03-29 12:31:50.8805 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 12:31:51.0894 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 12:31:51.4379 INFO Get Product Type Master List Success
+2022-03-29 12:31:51.5468 INFO Get User Success :kent_lab
+2022-03-29 12:31:54.1937 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-29 12:31:58.4757 INFO Get User Success :364-Kent Homeopathic Laboratories, Bond Officer
+2022-03-29 12:31:58.6070 INFO Get User Success :364-Kent Homeopathic Laboratories, Bond Officer
+2022-03-29 12:31:58.7201 INFO Get Product Type Master List Success
+2022-03-29 12:31:58.7880 INFO Get User Success :kent_labbo
+2022-03-29 12:32:12.3257 INFO Get User Success :364-Kent Homeopathic Laboratories, Bond Officer
+2022-03-29 12:33:20.4026 INFO Get Product Type Master List Success
+2022-03-29 12:33:20.4774 INFO Get User Success :kent_labbo
+2022-03-29 12:33:27.5600 INFO Get User Fail :364--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 12:33:27.6158 INFO Get Allotment List Success
+2022-03-29 12:33:27.6796 INFO Get Product Type Master List Success
+2022-03-29 12:33:27.7355 INFO Get User Success :kent_labbo
+2022-03-29 12:33:34.2287 INFO Get User Fail :364--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 12:33:34.2815 INFO Get Product Master List Success
+2022-03-29 12:33:34.3433 INFO Get VAT Master List Success
+2022-03-29 12:33:34.5169 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-03-29 12:33:34.6575 INFO Get Product Type Master List Success
+2022-03-29 12:33:34.7123 INFO Get User Success :kent_labbo
+2022-03-29 12:36:10.1853 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-03-29 12:37:56.0002 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-03-29 14:57:27.2109 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 14:57:27.4200 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 14:57:27.9973 INFO Get Product Type Master List Success
+2022-03-29 14:57:28.0801 INFO Get User Success :similia_lab
+2022-03-29 14:57:38.7438 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 14:57:38.8453 INFO Get Party Master List Success
+2022-03-29 14:57:38.8970 INFO GetFinacListValues Success
+2022-03-29 14:57:53.8711 INFO Get Product Type Master List Success
+2022-03-29 14:57:53.9346 INFO Get User Success :similia_lab
+2022-03-29 14:58:03.3950 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 14:58:03.4465 INFO GetFinacListValues Success
+2022-03-29 14:58:10.6532 INFO Get Users List Success
+2022-03-29 14:58:10.7078 INFO Get Party Master Details Success
+2022-03-29 14:58:14.8661 INFO Get Product Type Master List Success
+2022-03-29 14:58:14.9298 INFO Get User Success :similia_lab
+2022-03-29 14:58:47.6145 INFO Get Party Master Details Success
+2022-03-29 14:58:47.6674 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 14:58:53.2827 INFO GetFinacListValues Success
+2022-03-29 14:58:54.8482 INFO Get Existing data Fail :openingbalance
+2022-03-29 14:58:55.1156 INFO GetFinacListValues Success
+2022-03-29 14:58:55.1645 INFO Get Existing data Fail :vat_master
+2022-03-29 14:58:55.2412 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 14:58:55.3510 INFO Get Party Master List Success
+2022-03-29 14:58:55.4008 INFO GetFinacListValues Success
+2022-03-29 14:58:55.4497 INFO Get Product Type Master List Success
+2022-03-29 14:58:55.5036 INFO Get User Success :similia_lab
+2022-03-29 14:59:06.7216 INFO Get User Success :354-Similia Research Laboratory Pvt. Ltd Bond Officer
+2022-03-29 14:59:06.8772 INFO Get User Success :354-Similia Research Laboratory Pvt. Ltd Bond Officer
+2022-03-29 14:59:06.9757 INFO Get Product Type Master List Success
+2022-03-29 14:59:07.0327 INFO Get User Success :similia_labbo
+2022-03-29 14:59:11.5705 INFO Get User Success :354-Similia Research Laboratory Pvt. Ltd Bond Officer
+2022-03-29 14:59:11.6692 INFO Get Party Master List Success
+2022-03-29 14:59:11.7201 INFO GetFinacListValues Success
+2022-03-29 14:59:11.7829 INFO Get Product Type Master List Success
+2022-03-29 14:59:11.8378 INFO Get User Success :similia_labbo
+2022-03-29 14:59:21.4407 INFO Get User Success :354-Similia Research Laboratory Pvt. Ltd Bond Officer
+2022-03-29 14:59:21.5025 INFO GetFinacListValues Success
+2022-03-29 14:59:22.2924 INFO Get Users List Success
+2022-03-29 14:59:22.3473 INFO Get Party Master Details Success
+2022-03-29 14:59:22.4649 INFO Get Product Type Master List Success
+2022-03-29 14:59:22.5288 INFO Get User Success :similia_labbo
+2022-03-29 14:59:30.7977 INFO Get User Success :354-Similia Research Laboratory Pvt. Ltd Bond Officer
+2022-03-29 14:59:30.8995 INFO Get Party Master List Success
+2022-03-29 14:59:30.9523 INFO GetFinacListValues Success
+2022-03-29 14:59:31.0042 INFO Get Product Type Master List Success
+2022-03-29 14:59:31.0680 INFO Get User Success :similia_labbo
+2022-03-29 14:59:37.3051 INFO Get User Success :354-Similia Research Laboratory Pvt. Ltd Bond Officer
+2022-03-29 14:59:37.3580 INFO GetFinacListValues Success
+2022-03-29 14:59:38.1879 INFO Get Users List Success
+2022-03-29 14:59:38.2457 INFO Get Party Master Details Success
+2022-03-29 14:59:38.3554 INFO Get Product Type Master List Success
+2022-03-29 14:59:38.4306 INFO Get User Success :similia_labbo
+2022-03-29 14:59:49.9194 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 14:59:50.0641 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 14:59:50.4121 INFO Get Product Type Master List Success
+2022-03-29 14:59:50.4799 INFO Get User Success :hodyco
+2022-03-29 14:59:53.1023 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 14:59:53.2260 INFO Get Party Master List Success
+2022-03-29 14:59:53.2749 INFO GetFinacListValues Success
+2022-03-29 14:59:53.3357 INFO Get Product Type Master List Success
+2022-03-29 14:59:53.4163 INFO Get User Success :hodyco
+2022-03-29 15:00:01.8241 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 15:00:01.9457 INFO Get Party Master List Success
+2022-03-29 15:00:01.9976 INFO GetFinacListValues Success
+2022-03-29 15:00:05.9120 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 15:00:05.9751 INFO GetFinacListValues Success
+2022-03-29 15:00:06.8640 INFO Get Users List Success
+2022-03-29 15:00:06.9150 INFO Get Party Master Details Success
+2022-03-29 15:00:07.0282 INFO Get Product Type Master List Success
+2022-03-29 15:00:07.0843 INFO Get User Success :hodyco
+2022-03-29 15:00:16.5448 INFO Get User Success :100-Deputy Commissioner
+2022-03-29 15:00:16.6860 INFO Get Party Master List Success
+2022-03-29 15:00:16.7626 INFO GetFinacListValues Success
+2022-03-29 15:00:16.8358 INFO Get Product Type Master List Success
+2022-03-29 15:00:16.8964 INFO Get User Success :hodyco
+2022-03-29 15:00:24.1950 INFO Get User Success :101-Commissioner
+2022-03-29 15:00:24.3580 INFO Get User Success :101-Commissioner
+2022-03-29 15:00:24.7443 INFO Get Product Type Master List Success
+2022-03-29 15:00:24.8208 INFO Get User Success :com
+2022-03-29 15:00:27.5632 INFO Get User Success :101-Commissioner
+2022-03-29 15:00:27.6669 INFO Get Party Master List Success
+2022-03-29 15:00:27.7218 INFO GetFinacListValues Success
+2022-03-29 15:00:27.7856 INFO Get Product Type Master List Success
+2022-03-29 15:00:27.8464 INFO Get User Success :com
+2022-03-29 15:00:30.7394 INFO Get User Success :101-Commissioner
+2022-03-29 15:00:30.8712 INFO Get Party Master List Success
+2022-03-29 15:00:30.9333 INFO GetFinacListValues Success
+2022-03-29 15:00:36.3438 INFO Get User Success :101-Commissioner
+2022-03-29 15:00:36.3927 INFO GetFinacListValues Success
+2022-03-29 15:00:37.4350 INFO Get Users List Success
+2022-03-29 15:00:37.4869 INFO Get Party Master Details Success
+2022-03-29 15:00:37.6210 INFO Get Product Type Master List Success
+2022-03-29 15:00:37.6784 INFO Get User Success :com
+2022-03-29 15:00:47.0923 INFO Get User Success :101-Commissioner
+2022-03-29 15:00:47.2163 INFO Get Party Master List Success
+2022-03-29 15:00:47.2830 INFO GetFinacListValues Success
+2022-03-29 15:00:47.3418 INFO Get Product Type Master List Success
+2022-03-29 15:00:47.4133 INFO Get User Success :com
+2022-03-29 15:01:20.2831 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:01:20.4546 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:01:20.5622 INFO Get Product Type Master List Success
+2022-03-29 15:01:20.6252 INFO Get User Success :similia_lab
+2022-03-29 15:01:38.0752 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:01:46.1608 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 15:01:46.4389 INFO Get Product Type Master List Success
+2022-03-29 15:01:46.5017 INFO Get User Success :similia_lab
+2022-03-29 15:02:02.1579 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:03:32.2240 INFO Get Product Type Master List Success
+2022-03-29 15:03:32.2824 INFO Get User Success :similia_lab
+2022-03-29 15:03:32.5704 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:03:32.9192 INFO Get Product Type Master List Success
+2022-03-29 15:03:32.9868 INFO Get User Success :similia_lab
+2022-03-29 15:04:14.2496 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 15:04:14.3355 INFO Get Allotment List Success
+2022-03-29 15:04:14.3866 INFO Get Product Type Master List Success
+2022-03-29 15:04:14.4420 INFO Get User Success :similia_lab
+2022-03-29 15:04:26.2791 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 15:04:26.6294 INFO Get Product Type Master List Success
+2022-03-29 15:04:26.7003 INFO Get User Success :similia_lab
+2022-03-29 15:04:33.3536 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:04:33.6968 INFO Get Product Type Master List Success
+2022-03-29 15:04:33.7525 INFO Get User Success :similia_lab
+2022-03-29 15:04:48.1565 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 15:04:48.4817 INFO Get Product Type Master List Success
+2022-03-29 15:04:48.5361 INFO Get User Success :similia_lab
+2022-03-29 15:04:57.2104 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:05:00.2164 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 15:05:00.5459 INFO Get Product Type Master List Success
+2022-03-29 15:05:00.6108 INFO Get User Success :similia_lab
+2022-03-29 15:05:03.2181 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:05:05.9164 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 15:05:06.1345 INFO Get Product Type Master List Success
+2022-03-29 15:05:06.2023 INFO Get User Success :similia_lab
+2022-03-29 15:05:09.6534 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-29 15:05:09.9774 INFO Get Product Type Master List Success
+2022-03-29 15:05:10.0479 INFO Get User Success :similia_lab
+2022-03-29 15:05:23.0747 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:05:23.1495 INFO Get Allotment List Success
+2022-03-29 15:05:23.2004 INFO Get Product Type Master List Success
+2022-03-29 15:05:23.2682 INFO Get User Success :similia_lab
+2022-03-29 15:05:25.8746 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:05:25.9375 INFO Get Party Master List Success
+2022-03-29 15:05:25.9983 INFO Get Product Master List Success
+2022-03-29 15:05:26.0472 INFO Get Product Type Master List Success
+2022-03-29 15:05:26.1189 INFO Get User Success :similia_lab
+2022-03-29 15:05:32.8863 INFO Get Party Master List Success
+2022-03-29 15:05:52.9085 INFO Insert Allotment Success :-SRL
+2022-03-29 15:05:53.0062 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:05:53.0850 INFO Get Allotment List Success
+2022-03-29 15:05:53.1778 INFO Get Product Type Master List Success
+2022-03-29 15:05:53.2656 INFO Get User Success :similia_lab
+2022-03-29 15:06:03.5206 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:06:10.0029 INFO Get Product Type Master List Success
+2022-03-29 15:06:10.0837 INFO Get User Success :similia_lab
+2022-03-29 15:06:12.3586 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:06:12.5262 INFO Get Allotment List Success
+2022-03-29 15:06:12.6349 INFO Get NOC Sucess:Req/BJ/SRL/PER/2022-2023/1
+2022-03-29 15:06:12.6857 INFO Get Product Master List Success
+2022-03-29 15:06:12.7396 INFO Get UOM List Success
+2022-03-29 15:06:12.7884 INFO Get Product Type Master List Success
+2022-03-29 15:06:12.8423 INFO Get User Success :similia_lab
+2022-03-29 15:06:29.6208 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:06:29.7347 INFO Get Product Type Master List Success
+2022-03-29 15:06:29.7927 INFO Get User Success :similia_lab
+2022-03-29 15:06:32.8493 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:06:33.0038 INFO Get Product Type Master List Success
+2022-03-29 15:06:33.0604 INFO Get User Success :similia_lab
+2022-03-29 15:09:42.7904 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-03-29 15:09:42.8800 INFO Get Report  Success
+2022-03-29 15:09:43.2371 INFO GetFinacListValues Success
+2022-03-29 15:09:43.5942 INFO Get Party Master List Success
+2022-03-29 15:09:43.6541 INFO Get Product Type Master List Success
+2022-03-29 15:09:43.7251 INFO Get User Success :similia_lab
+2022-03-29 15:17:51.3543 INFO Get User Success :44-Administrator
+2022-03-29 15:17:51.5179 INFO Get User Success :44-Administrator
+2022-03-29 15:17:51.7862 INFO Get Product Type Master List Success
+2022-03-29 15:17:51.8639 INFO Get User Success :Admin
+2022-03-29 15:17:58.3215 INFO Get State List Success
+2022-03-29 15:17:58.3873 INFO Get Product Type Master List Success
+2022-03-29 15:17:58.4512 INFO Get User Success :Admin
+2022-03-29 15:18:00.4658 INFO Org Get List Success
+2022-03-29 15:18:00.5526 INFO Get Product Type Master List Success
+2022-03-29 15:18:00.6284 INFO Get User Success :Admin
+2022-03-29 15:18:01.9344 INFO GetFinacListValues Success
+2022-03-29 15:18:01.9962 INFO Get Product Type Master List Success
+2022-03-29 15:18:02.0541 INFO Get User Success :Admin
+2022-03-29 15:18:11.2774 INFO Get Product Type Master List Success
+2022-03-29 15:18:11.3482 INFO Get User Success :Admin
+2022-03-29 15:18:13.6581 INFO GetFinacListValues Success
+2022-03-29 15:18:13.7130 INFO Get Product Type Master List Success
+2022-03-29 15:18:13.7678 INFO Get User Success :Admin
+2022-03-29 15:18:24.3873 INFO Get OrgNames in Financial Form Success
+2022-03-29 15:18:24.4561 INFO Get Product Type Master List Success
+2022-03-29 15:18:24.5559 INFO Get User Success :Admin
+2022-03-29 15:19:17.3202 INFO GetFinacListValues Success
+2022-03-29 15:19:17.3736 INFO Get Product Type Master List Success
+2022-03-29 15:19:17.4419 INFO Get User Success :Admin
+2022-03-29 15:20:48.0526 INFO Get OrgNames in Financial Form Success
+2022-03-29 15:21:26.6032 INFO Get Product Type Master List Success
+2022-03-29 15:21:26.6770 INFO Get User Success :Admin
+2022-03-29 15:21:48.7101 INFO GetFinacListValues Success
+2022-03-29 15:21:48.8371 INFO Insertion OrgFinance Success :1
+2022-03-29 15:21:48.9623 INFO GetFinacListValues Success
+2022-03-29 15:21:49.3241 INFO Get Product Type Master List Success
+2022-03-29 15:21:49.3850 INFO Get User Success :Admin
+2022-03-29 15:22:13.1826 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-03-29 15:22:13.3980 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-03-29 15:22:13.8344 INFO Get Product Type Master List Success
+2022-03-29 15:22:13.9993 INFO Get User Success :harinagar_dis
+2022-03-29 15:22:16.6238 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-03-29 15:22:16.6818 INFO Get Report  Success
+2022-03-29 15:22:16.7392 INFO GetFinacListValues Success
+2022-03-29 15:22:16.8891 INFO Get Party Master List Success
+2022-03-29 15:22:16.9917 INFO Get Product Type Master List Success
+2022-03-29 15:22:17.1354 INFO Get User Success :harinagar_dis
+2022-03-29 15:25:01.9913 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-03-29 15:25:02.0684 INFO Get Report  Success
+2022-03-29 15:29:39.1608 INFO GetFinacListValues Success
+2022-03-29 15:29:39.2685 INFO Get Party Master List Success
+2022-03-29 15:29:39.3343 INFO Get Product Type Master List Success
+2022-03-29 15:29:39.4121 INFO Get User Success :harinagar_dis
+2022-03-29 15:29:43.8868 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-03-29 15:29:43.9546 INFO Get Report  Success
+2022-03-29 15:29:55.9996 INFO GetFinacListValues Success
+2022-03-29 15:29:56.1203 INFO Get Party Master List Success
+2022-03-29 15:29:56.1821 INFO Get Product Type Master List Success
+2022-03-29 15:29:56.2779 INFO Get User Success :harinagar_dis
+2022-03-29 15:29:59.9506 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-03-29 15:30:00.0214 INFO Get Report  Success
+2022-03-29 15:30:19.2794 INFO GetFinacListValues Success
+2022-03-29 15:30:24.2209 INFO Get Party Master List Success
+2022-03-29 15:30:24.2875 INFO Get Product Type Master List Success
+2022-03-29 15:30:24.3554 INFO Get User Success :harinagar_dis
+2022-03-29 15:30:39.2895 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-03-29 15:30:39.3430 INFO Get Report  Success
+2022-03-29 15:31:05.0761 INFO GetFinacListValues Success
+2022-03-29 15:35:23.3047 INFO GetFinacListValues Success
+2022-03-29 15:36:27.4128 INFO Get Party Master List Success
+2022-03-29 15:36:27.4726 INFO Get Product Type Master List Success
+2022-03-29 15:36:27.5294 INFO Get User Success :harinagar_dis
+2022-03-29 15:36:41.7417 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-03-29 15:36:41.8006 INFO Get Report  Success
+2022-03-29 15:36:46.6700 INFO GetFinacListValues Success
+2022-03-29 15:38:44.1796 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-03-29 15:39:06.5219 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-03-29 15:39:07.1344 INFO Get Product Type Master List Success
+2022-03-29 15:39:07.2611 INFO Get User Success :harinagar_dis
+2022-03-29 15:39:14.6273 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-03-29 15:39:14.6892 INFO Get Report  Success
+2022-03-29 15:39:38.6496 INFO GetFinacListValues Success
+2022-03-29 15:40:02.6835 INFO Get Party Master List Success
+2022-03-29 15:40:02.7523 INFO Get Product Type Master List Success
+2022-03-29 15:40:02.8301 INFO Get User Success :harinagar_dis
+2022-03-29 15:40:14.7783 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 15:40:14.9549 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 15:40:15.0745 INFO Get Product Type Master List Success
+2022-03-29 15:40:15.1374 INFO Get User Success :globus_dis
+2022-03-29 15:40:17.9429 INFO Get User Success :341-Globus Spirits Limited
+2022-03-29 15:40:17.9947 INFO Get Report  Success
+2022-03-29 15:40:20.7421 INFO GetFinacListValues Success
+2022-03-29 15:40:24.7886 INFO Get Party Master List Success
+2022-03-29 15:40:24.8394 INFO Get Product Type Master List Success
+2022-03-29 15:40:24.8946 INFO Get User Success :globus_dis
+2022-03-29 15:51:45.1736 INFO Get User Success :101-Commissioner
+2022-03-29 15:51:45.3083 INFO Get User Success :101-Commissioner
+2022-03-29 15:51:46.1340 INFO Get Product Type Master List Success
+2022-03-29 15:51:46.2148 INFO Get User Success :com
+2022-03-29 15:57:02.5216 INFO Get Existing data Success :complaint
+2022-03-29 15:57:05.0081 INFO Get Existing data Success :complaint
+2022-03-29 15:57:07.4722 INFO Get Existing data Success :complaint
+2022-03-29 15:58:17.5783 INFO Get Existing data Success :complaint
+2022-03-29 15:58:26.0038 INFO Get Existing data Success :complaint
+2022-03-29 16:01:28.4614 INFO Get User Success :101-Commissioner
+2022-03-29 16:01:28.6608 INFO Get User Success :101-Commissioner
+2022-03-29 16:01:29.4231 INFO Get Product Type Master List Success
+2022-03-29 16:01:29.4949 INFO Get User Success :com
+2022-03-29 16:01:32.8616 INFO Get State List Success
+2022-03-29 16:32:55.3582 INFO Get State List Success
+2022-03-29 16:34:47.7133 INFO Get User Success :101-Commissioner
+2022-03-29 16:34:47.9178 INFO Get User Success :101-Commissioner
+2022-03-29 16:34:48.6331 INFO Get Product Type Master List Success
+2022-03-29 16:34:48.6909 INFO Get User Success :com

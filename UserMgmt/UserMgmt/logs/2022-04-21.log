@@ -1,0 +1,54 @@
+2022-04-21 10:02:05.1403 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-04-21 10:02:05.4486 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-04-21 10:02:05.9083 INFO Get Product Type Master List Success
+2022-04-21 10:02:05.9933 INFO Get User Success :similia_lab
+2022-04-21 10:02:13.1541 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-04-21 10:02:21.0754 INFO Get Product Type Master List Success
+2022-04-21 10:02:21.1510 INFO Get User Success :similia_lab
+2022-04-21 10:02:22.9257 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-04-21 10:02:23.0075 INFO Get Allotment List Success
+2022-04-21 10:02:23.1082 INFO Get Product Type Master List Success
+2022-04-21 10:02:23.1837 INFO Get User Success :similia_lab
+2022-04-21 10:02:26.2220 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-04-21 10:02:26.2939 INFO Get Product Master List Success
+2022-04-21 10:02:26.3724 INFO Get VAT Master List Success
+2022-04-21 10:02:26.4430 INFO Get Product Type Master List Success
+2022-04-21 10:02:26.5176 INFO Get User Success :similia_lab
+2022-04-21 10:02:35.7958 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-04-21 10:03:01.0446 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-04-21 10:05:01.8512 INFO Insert Consumption Success :-SRL
+2022-04-21 10:05:01.9646 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-04-21 10:05:02.0931 INFO Get Allotment List Success
+2022-04-21 10:05:02.1652 INFO Get Product Type Master List Success
+2022-04-21 10:05:02.2420 INFO Get User Success :similia_lab
+2022-04-21 10:07:17.8266 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-04-21 10:07:17.9242 INFO Get Product Master List Success
+2022-04-21 10:07:18.0203 INFO Get VAT Master List Success
+2022-04-21 10:20:13.4963 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-04-21 10:20:13.8171 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-04-21 10:20:14.3239 INFO Get Product Type Master List Success
+2022-04-21 10:20:14.4069 INFO Get User Success :similia_lab
+2022-04-21 10:20:19.9213 INFO Get User Success :353-Similia Research Laboratory Pvt. Ltd
+2022-04-21 10:20:27.5076 INFO Get Product Type Master List Success
+2022-04-21 10:20:27.5846 INFO Get User Success :similia_lab
+2022-04-21 10:20:31.4381 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-04-21 10:20:31.6106 INFO Get Allotment List Success
+2022-04-21 10:20:31.7047 INFO Get Product Type Master List Success
+2022-04-21 10:20:31.8067 INFO Get User Success :similia_lab
+2022-04-21 10:20:38.4083 INFO Get User Fail :353--Index and length must refer to a location within the string.
+Parameter name: length
+2022-04-21 10:20:38.5001 INFO Get Product Master List Success
+2022-04-21 10:20:38.5955 INFO Get VAT Master List Success
+2022-04-21 10:20:38.6891 INFO Get Product Type Master List Success
+2022-04-21 10:20:38.7897 INFO Get User Success :similia_lab
+2022-04-21 16:31:10.4886 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-04-21 16:31:10.7628 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)
+2022-04-21 16:31:11.6840 INFO Get Product Type Master List Success
+2022-04-21 16:31:11.8114 INFO Get User Success :harinagar_dis
+2022-04-21 16:31:17.6082 INFO Get User Success :98-Harinagar Sugar Mills Limited(Distillery Division)

@@ -1,0 +1,449 @@
+2022-03-28 09:46:44.6477 INFO Get User Success :101-Commissioner
+2022-03-28 09:46:44.8661 INFO Get User Success :101-Commissioner
+2022-03-28 09:46:45.0396 INFO Get Product Type Master List Success
+2022-03-28 09:46:45.0496 INFO Get User Success :com
+2022-03-28 14:03:18.7182 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-28 14:03:36.7670 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-28 14:03:36.8233 INFO Get Product Type Master List Success
+2022-03-28 14:03:36.8545 INFO Get User Success :bdbl_dis
+2022-03-28 14:04:26.9653 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-28 14:04:26.9954 INFO Get Party Master List Success
+2022-03-28 14:04:26.9954 INFO GetFinacListValues Success
+2022-03-28 14:04:34.8712 INFO Get Product Type Master List Success
+2022-03-28 14:04:34.8712 INFO Get User Success :bdbl_dis
+2022-03-28 14:04:42.6528 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-28 14:04:42.6528 INFO GetFinacListValues Success
+2022-03-28 14:04:44.9732 INFO Get Users List Success
+2022-03-28 14:04:44.9852 INFO Get Party Master Details Success
+2022-03-28 14:04:45.6595 INFO Get Product Type Master List Success
+2022-03-28 14:04:45.6764 INFO Get User Success :bdbl_dis
+2022-03-28 14:05:08.4873 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-28 14:05:08.5962 INFO GetFinacListValues Success
+2022-03-28 14:05:08.6707 INFO Get Existing data Fail :openingbalance-Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-03-28 14:05:08.7032 INFO Get User Success :339-Bihar Distillers & Bottlers Pvt. Ltd - Unit- 1
+2022-03-28 14:05:08.7032 INFO Get Party Master List Success
+2022-03-28 14:05:08.7032 INFO GetFinacListValues Success
+2022-03-28 14:05:11.5985 INFO Get Product Type Master List Success
+2022-03-28 14:05:11.6085 INFO Get User Success :bdbl_dis
+2022-03-28 14:07:58.6438 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:07:58.7509 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:07:58.7884 INFO Get Product Type Master List Success
+2022-03-28 14:07:58.8056 INFO Get User Success :globus_dis
+2022-03-28 14:08:04.1641 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:08:04.1801 INFO Get Party Master List Success
+2022-03-28 14:08:04.1831 INFO GetFinacListValues Success
+2022-03-28 14:08:06.0813 INFO Get Product Type Master List Success
+2022-03-28 14:08:06.0893 INFO Get User Success :globus_dis
+2022-03-28 14:08:11.2560 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:08:11.2560 INFO GetFinacListValues Success
+2022-03-28 14:08:13.8856 INFO Get Users List Success
+2022-03-28 14:08:13.8856 INFO Get Party Master Details Success
+2022-03-28 14:08:15.5078 INFO Get Product Type Master List Success
+2022-03-28 14:08:15.5288 INFO Get User Success :globus_dis
+2022-03-28 14:08:21.7968 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:08:21.8481 INFO GetFinacListValues Success
+2022-03-28 14:08:21.9099 INFO Get Existing data Fail :openingbalance-Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-03-28 14:08:21.9307 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:08:21.9307 INFO Get Party Master List Success
+2022-03-28 14:08:21.9307 INFO GetFinacListValues Success
+2022-03-28 14:09:53.4748 INFO Get Product Type Master List Success
+2022-03-28 14:09:53.4828 INFO Get User Success :globus_dis
+2022-03-28 14:09:56.5441 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:09:56.5441 INFO Get Party Master List Success
+2022-03-28 14:09:56.5441 INFO GetFinacListValues Success
+2022-03-28 14:09:59.2766 INFO Get Product Type Master List Success
+2022-03-28 14:09:59.2766 INFO Get User Success :globus_dis
+2022-03-28 14:15:49.6168 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:15:49.6188 INFO GetFinacListValues Success
+2022-03-28 14:15:55.9318 INFO Get Users List Success
+2022-03-28 14:15:55.9318 INFO Get Party Master Details Success
+2022-03-28 14:15:58.0515 INFO Get Product Type Master List Success
+2022-03-28 14:15:58.0594 INFO Get User Success :globus_dis
+2022-03-28 14:16:02.6988 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:23:24.7128 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:23:24.8126 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:23:24.8285 INFO Get Product Type Master List Success
+2022-03-28 14:23:24.8465 INFO Get User Success :globus_dis
+2022-03-28 14:23:38.7742 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:23:38.7882 INFO Get Party Master List Success
+2022-03-28 14:23:38.7981 INFO GetFinacListValues Success
+2022-03-28 14:23:44.4068 INFO Get Product Type Master List Success
+2022-03-28 14:23:44.4248 INFO Get User Success :globus_dis
+2022-03-28 14:24:00.0151 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:24:00.0151 INFO GetFinacListValues Success
+2022-03-28 14:24:09.2917 INFO Get Users List Success
+2022-03-28 14:24:09.2917 INFO Get Party Master Details Success
+2022-03-28 14:24:11.2681 INFO Get Product Type Master List Success
+2022-03-28 14:24:11.2750 INFO Get User Success :globus_dis
+2022-03-28 14:24:16.4195 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:24:29.6868 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:24:29.7018 INFO Get Party Master List Success
+2022-03-28 14:24:29.7018 INFO GetFinacListValues Success
+2022-03-28 14:24:33.1890 INFO Get Product Type Master List Success
+2022-03-28 14:24:33.1980 INFO Get User Success :globus_dis
+2022-03-28 14:24:35.0333 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:24:35.0333 INFO GetFinacListValues Success
+2022-03-28 14:24:38.1110 INFO Get Users List Success
+2022-03-28 14:24:38.1110 INFO Get Party Master Details Success
+2022-03-28 14:24:39.9192 INFO Get Product Type Master List Success
+2022-03-28 14:24:39.9192 INFO Get User Success :globus_dis
+2022-03-28 14:24:47.7446 INFO Get User Success :350-Globus Spirits Limited
+2022-03-28 14:25:27.3031 INFO GetFinacListValues Success
+2022-03-28 14:36:19.6559 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 14:36:19.8724 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 14:36:19.9920 INFO Get Product Type Master List Success
+2022-03-28 14:36:20.0601 INFO Get User Success :globus_dis
+2022-03-28 14:37:04.3885 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 14:37:04.5570 INFO Get Product Type Master List Success
+2022-03-28 14:37:04.6428 INFO Get User Success :globus_dis
+2022-03-28 14:37:12.3089 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 14:37:12.4110 INFO Get Party Master List Success
+2022-03-28 14:37:12.4620 INFO GetFinacListValues Success
+2022-03-28 14:37:18.3886 INFO Get Product Type Master List Success
+2022-03-28 14:37:18.4477 INFO Get User Success :globus_dis
+2022-03-28 14:37:20.9915 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 14:37:21.0401 INFO GetFinacListValues Success
+2022-03-28 14:37:25.3291 INFO Get Users List Success
+2022-03-28 14:37:25.3828 INFO Get Party Master Details Success
+2022-03-28 14:37:29.3347 INFO Get Product Type Master List Success
+2022-03-28 14:37:29.3895 INFO Get User Success :globus_dis
+2022-03-28 14:37:38.0467 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 14:38:04.1121 INFO GetFinacListValues Success
+2022-03-28 14:54:40.4593 INFO GetFinacListValues Success
+2022-03-28 14:56:32.3796 INFO Get Existing data Fail :openingbalance
+2022-03-28 14:56:36.6404 INFO GetFinacListValues Success
+2022-03-28 14:56:44.1386 INFO Get Existing data Fail :vat_master-Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-03-28 14:56:44.2075 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 14:56:44.3103 INFO Get Party Master List Success
+2022-03-28 14:56:44.3587 INFO GetFinacListValues Success
+2022-03-28 14:56:49.4965 INFO Get Product Type Master List Success
+2022-03-28 14:56:49.5540 INFO Get User Success :globus_dis
+2022-03-28 14:57:27.0234 INFO Get User Success :342-Globus Spirits Limited, Bond Officer
+2022-03-28 14:57:27.1670 INFO Get User Success :342-Globus Spirits Limited, Bond Officer
+2022-03-28 14:57:27.2847 INFO Get Product Type Master List Success
+2022-03-28 14:57:27.3475 INFO Get User Success :globus_disbo
+2022-03-28 14:57:29.7561 INFO Get User Success :342-Globus Spirits Limited, Bond Officer
+2022-03-28 14:57:29.8549 INFO Get Party Master List Success
+2022-03-28 14:57:29.9157 INFO GetFinacListValues Success
+2022-03-28 14:57:29.9765 INFO Get Product Type Master List Success
+2022-03-28 14:57:30.0334 INFO Get User Success :globus_disbo
+2022-03-28 14:57:37.0463 INFO Get User Success :342-Globus Spirits Limited, Bond Officer
+2022-03-28 14:57:38.6145 INFO GetFinacListValues Success
+2022-03-28 14:58:09.8447 INFO Get Users List Success
+2022-03-28 14:58:09.9035 INFO Get Party Master Details Success
+2022-03-28 14:58:13.5187 INFO Get Product Type Master List Success
+2022-03-28 14:58:13.5935 INFO Get User Success :globus_disbo
+2022-03-28 14:58:33.6971 INFO Get User Success :342-Globus Spirits Limited, Bond Officer
+2022-03-28 14:58:33.7599 INFO GetFinacListValues Success
+2022-03-28 15:03:09.5251 INFO Get Users List Success
+2022-03-28 15:03:09.5759 INFO Get Party Master Details Success
+2022-03-28 15:03:13.4427 INFO Get Product Type Master List Success
+2022-03-28 15:03:13.4976 INFO Get User Success :globus_disbo
+2022-03-28 15:03:23.5760 INFO Get User Success :342-Globus Spirits Limited, Bond Officer
+2022-03-28 15:03:23.6790 INFO Get Party Master List Success
+2022-03-28 15:03:23.7252 INFO GetFinacListValues Success
+2022-03-28 15:03:23.7729 INFO Get Product Type Master List Success
+2022-03-28 15:03:23.8297 INFO Get User Success :globus_disbo
+2022-03-28 15:03:26.3432 INFO Get User Success :342-Globus Spirits Limited, Bond Officer
+2022-03-28 15:03:26.4136 INFO GetFinacListValues Success
+2022-03-28 15:03:30.3989 INFO Get Users List Success
+2022-03-28 15:03:30.4620 INFO Get Party Master Details Success
+2022-03-28 15:03:33.1859 INFO Get Product Type Master List Success
+2022-03-28 15:03:33.2392 INFO Get User Success :globus_disbo
+2022-03-28 15:03:45.0236 INFO Get User Success :342-Globus Spirits Limited, Bond Officer
+2022-03-28 15:03:45.1244 INFO Get Party Master List Success
+2022-03-28 15:03:45.1802 INFO GetFinacListValues Success
+2022-03-28 15:03:45.2281 INFO Get Product Type Master List Success
+2022-03-28 15:03:45.2929 INFO Get User Success :globus_disbo
+2022-03-28 15:03:54.0663 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:03:54.2114 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:03:54.3121 INFO Get Product Type Master List Success
+2022-03-28 15:03:54.3730 INFO Get User Success :globus_dis
+2022-03-28 15:03:56.4212 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:03:56.5798 INFO Get Party Master List Success
+2022-03-28 15:03:56.6665 INFO GetFinacListValues Success
+2022-03-28 15:03:59.8879 INFO Get Product Type Master List Success
+2022-03-28 15:03:59.9517 INFO Get User Success :globus_dis
+2022-03-28 15:08:17.0979 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:08:17.2432 INFO Get Party Master List Success
+2022-03-28 15:08:17.3141 INFO GetFinacListValues Success
+2022-03-28 15:08:25.6682 INFO Get Product Type Master List Success
+2022-03-28 15:08:25.7296 INFO Get User Success :globus_dis
+2022-03-28 15:08:31.4040 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:08:31.5041 INFO Get Party Master List Success
+2022-03-28 15:08:31.5521 INFO GetFinacListValues Success
+2022-03-28 15:08:33.7563 INFO Get Product Type Master List Success
+2022-03-28 15:08:33.8133 INFO Get User Success :globus_dis
+2022-03-28 15:08:51.2398 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:08:51.3412 INFO Get Party Master List Success
+2022-03-28 15:08:51.3886 INFO GetFinacListValues Success
+2022-03-28 15:09:43.5378 INFO Get Product Type Master List Success
+2022-03-28 15:09:43.6204 INFO Get User Success :globus_dis
+2022-03-28 15:16:05.9679 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:16:06.1923 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:16:06.3130 INFO Get Product Type Master List Success
+2022-03-28 15:16:06.3758 INFO Get User Success :globus_dis
+2022-03-28 15:16:09.0208 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:16:09.1724 INFO Get Party Master List Success
+2022-03-28 15:16:09.5244 INFO GetFinacListValues Success
+2022-03-28 15:16:13.0803 INFO Get Product Type Master List Success
+2022-03-28 15:16:13.1801 INFO Get User Success :globus_dis
+2022-03-28 15:16:23.9087 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:16:24.0164 INFO Get Party Master List Success
+2022-03-28 15:16:24.0743 INFO GetFinacListValues Success
+2022-03-28 15:21:05.2548 INFO Get Product Type Master List Success
+2022-03-28 15:21:05.3459 INFO Get User Success :globus_dis
+2022-03-28 15:21:10.9120 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:21:10.9607 INFO GetFinacListValues Success
+2022-03-28 15:21:17.5223 INFO Get Users List Success
+2022-03-28 15:21:17.5883 INFO Get Party Master Details Success
+2022-03-28 15:24:29.1252 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:24:29.3147 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:24:29.4304 INFO Get Product Type Master List Success
+2022-03-28 15:24:29.4982 INFO Get User Success :globus_dis
+2022-03-28 15:24:55.0573 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:24:55.1671 INFO Get Party Master List Success
+2022-03-28 15:24:55.2159 INFO GetFinacListValues Success
+2022-03-28 15:25:00.8557 INFO Get Product Type Master List Success
+2022-03-28 15:25:00.9119 INFO Get User Success :globus_dis
+2022-03-28 15:25:31.4614 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:25:31.5622 INFO Get Party Master List Success
+2022-03-28 15:25:31.6150 INFO GetFinacListValues Success
+2022-03-28 15:25:34.3188 INFO Get Product Type Master List Success
+2022-03-28 15:25:34.3776 INFO Get User Success :globus_dis
+2022-03-28 15:25:35.9786 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:25:36.0275 INFO GetFinacListValues Success
+2022-03-28 15:25:42.4238 INFO Get Users List Success
+2022-03-28 15:25:42.5136 INFO Get Party Master Details Success
+2022-03-28 15:25:54.8774 INFO Get Product Type Master List Success
+2022-03-28 15:25:54.9632 INFO Get User Success :globus_dis
+2022-03-28 15:27:54.4633 INFO Get Party Master Details Success
+2022-03-28 15:27:54.5142 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:28:45.7553 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:28:45.8999 INFO Get Party Master List Success
+2022-03-28 15:28:45.9537 INFO GetFinacListValues Success
+2022-03-28 15:28:50.8709 INFO Get Product Type Master List Success
+2022-03-28 15:28:50.9287 INFO Get User Success :globus_dis
+2022-03-28 15:28:59.7806 INFO Get User Success :100-Deputy Commissioner
+2022-03-28 15:28:59.9810 INFO Get User Success :100-Deputy Commissioner
+2022-03-28 15:29:00.4956 INFO Get Product Type Master List Success
+2022-03-28 15:29:00.5574 INFO Get User Success :hodyco
+2022-03-28 15:29:03.5786 INFO Get User Success :100-Deputy Commissioner
+2022-03-28 15:29:03.6772 INFO Get Party Master List Success
+2022-03-28 15:29:03.7310 INFO GetFinacListValues Success
+2022-03-28 15:29:03.7829 INFO Get Product Type Master List Success
+2022-03-28 15:29:03.8437 INFO Get User Success :hodyco
+2022-03-28 15:29:16.6659 INFO Get User Success :100-Deputy Commissioner
+2022-03-28 15:29:16.7217 INFO GetFinacListValues Success
+2022-03-28 15:29:23.0975 INFO Get Users List Success
+2022-03-28 15:29:23.1491 INFO Get Party Master Details Success
+2022-03-28 15:29:29.3910 INFO Get Product Type Master List Success
+2022-03-28 15:29:29.4518 INFO Get User Success :hodyco
+2022-03-28 15:29:38.0743 INFO Get User Success :100-Deputy Commissioner
+2022-03-28 15:29:38.1770 INFO Get Party Master List Success
+2022-03-28 15:29:38.2299 INFO GetFinacListValues Success
+2022-03-28 15:29:38.2808 INFO Get Product Type Master List Success
+2022-03-28 15:29:38.3396 INFO Get User Success :hodyco
+2022-03-28 15:29:48.9586 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:29:49.0776 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:29:49.1770 INFO Get Product Type Master List Success
+2022-03-28 15:29:49.2334 INFO Get User Success :globus_dis
+2022-03-28 15:29:51.6836 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:29:51.7955 INFO Get Party Master List Success
+2022-03-28 15:29:51.8587 INFO GetFinacListValues Success
+2022-03-28 15:29:56.0756 INFO Get Product Type Master List Success
+2022-03-28 15:29:56.1315 INFO Get User Success :globus_dis
+2022-03-28 15:30:05.6795 INFO Get User Success :101-Commissioner
+2022-03-28 15:30:05.8621 INFO Get User Success :101-Commissioner
+2022-03-28 15:30:06.2224 INFO Get Product Type Master List Success
+2022-03-28 15:30:06.2985 INFO Get User Success :com
+2022-03-28 15:30:09.4506 INFO Get User Success :101-Commissioner
+2022-03-28 15:30:09.5687 INFO Get Party Master List Success
+2022-03-28 15:30:09.6198 INFO GetFinacListValues Success
+2022-03-28 15:30:09.6847 INFO Get Product Type Master List Success
+2022-03-28 15:30:09.7363 INFO Get User Success :com
+2022-03-28 15:30:12.6405 INFO Get User Success :101-Commissioner
+2022-03-28 15:30:12.6963 INFO GetFinacListValues Success
+2022-03-28 15:30:18.3892 INFO Get Users List Success
+2022-03-28 15:30:18.4437 INFO Get Party Master Details Success
+2022-03-28 15:30:24.5877 INFO Get Product Type Master List Success
+2022-03-28 15:30:24.6504 INFO Get User Success :com
+2022-03-28 15:30:33.3765 INFO Get User Success :101-Commissioner
+2022-03-28 15:30:33.4721 INFO Get Party Master List Success
+2022-03-28 15:30:33.5201 INFO GetFinacListValues Success
+2022-03-28 15:30:33.5702 INFO Get Product Type Master List Success
+2022-03-28 15:30:33.6235 INFO Get User Success :com
+2022-03-28 15:30:41.7393 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:30:41.8752 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:30:42.0341 INFO Get Product Type Master List Success
+2022-03-28 15:30:42.1259 INFO Get User Success :globus_dis
+2022-03-28 15:30:44.4128 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:30:50.0015 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:30:50.7657 INFO Get Product Type Master List Success
+2022-03-28 15:30:50.8276 INFO Get User Success :globus_dis
+2022-03-28 15:30:54.0401 INFO Get User Fail :341--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-28 15:30:54.3392 INFO Get Product Type Master List Success
+2022-03-28 15:30:54.4065 INFO Get User Success :globus_dis
+2022-03-28 15:35:02.3771 INFO Get User Fail :341--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-28 15:35:02.7372 INFO Get Product Type Master List Success
+2022-03-28 15:35:02.8001 INFO Get User Success :globus_dis
+2022-03-28 15:35:03.8004 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:35:32.4548 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:35:33.1155 INFO Get Product Type Master List Success
+2022-03-28 15:35:33.1773 INFO Get User Success :globus_dis
+2022-03-28 15:36:00.0836 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:36:01.2260 INFO Get Product Type Master List Success
+2022-03-28 15:36:01.2850 INFO Get User Success :globus_dis
+2022-03-28 15:36:10.6078 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:36:10.7679 INFO Get State List Success
+2022-03-28 15:36:10.8383 INFO Get Product Type Master List Success
+2022-03-28 15:36:10.8988 INFO Get User Success :globus_dis
+2022-03-28 15:36:16.4162 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:36:16.4978 INFO Get Product Master List Success
+2022-03-28 15:38:03.1754 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:38:09.5885 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:38:10.1999 INFO Get Product Type Master List Success
+2022-03-28 15:38:10.2567 INFO Get User Success :globus_dis
+2022-03-28 15:38:17.5426 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:38:18.2021 INFO Get Product Type Master List Success
+2022-03-28 15:38:18.2669 INFO Get User Success :globus_dis
+2022-03-28 15:38:49.9377 INFO Get User Fail :341--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-28 15:38:50.2738 INFO Get Product Type Master List Success
+2022-03-28 15:38:50.3666 INFO Get User Success :globus_dis
+2022-03-28 15:38:51.9450 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 15:39:06.4484 INFO Get Product Type Master List Success
+2022-03-28 15:39:06.5063 INFO Get User Success :globus_dis
+2022-03-28 15:39:24.0211 INFO Get RR List Success
+2022-03-28 15:39:24.0766 INFO Get Product Type Master List Success
+2022-03-28 15:39:24.2470 INFO Get User Success :globus_dis
+2022-03-28 16:32:28.9662 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:32:29.2374 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:32:29.4203 INFO Get Product Type Master List Success
+2022-03-28 16:32:29.5244 INFO Get User Success :globus_dis
+2022-03-28 16:32:37.1837 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:33:29.5285 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:33:30.3582 INFO Get Product Type Master List Success
+2022-03-28 16:33:30.4260 INFO Get User Success :globus_dis
+2022-03-28 16:33:32.9149 INFO Get User Fail :341--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-28 16:33:33.2850 INFO Get Product Type Master List Success
+2022-03-28 16:33:33.3528 INFO Get User Success :globus_dis
+2022-03-28 16:33:35.4498 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:33:56.9971 INFO Get Product Type Master List Success
+2022-03-28 16:33:57.0689 INFO Get User Success :globus_dis
+2022-03-28 16:34:15.8267 INFO Get MaxID Success :openingbalance
+2022-03-28 16:34:23.4382 INFO Get User Fail :341--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-28 16:34:23.7703 INFO Get Product Type Master List Success
+2022-03-28 16:34:23.8421 INFO Get User Success :globus_dis
+2022-03-28 16:34:27.5369 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:34:29.2269 INFO Get Product Type Master List Success
+2022-03-28 16:34:29.2977 INFO Get User Success :globus_dis
+2022-03-28 16:34:35.6017 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:34:40.5511 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:34:59.4806 INFO Get User Success :342-Globus Spirits Limited, Bond Officer
+2022-03-28 16:34:59.6567 INFO Get User Success :342-Globus Spirits Limited, Bond Officer
+2022-03-28 16:34:59.7829 INFO Get Product Type Master List Success
+2022-03-28 16:34:59.8551 INFO Get User Success :globus_disbo
+2022-03-28 16:35:03.1557 INFO Get User Success :342-Globus Spirits Limited, Bond Officer
+2022-03-28 16:35:09.8025 INFO Get User Success :342-Globus Spirits Limited, Bond Officer
+2022-03-28 16:35:10.4699 INFO Get Product Type Master List Success
+2022-03-28 16:35:10.5402 INFO Get User Success :globus_disbo
+2022-03-28 16:35:12.6025 INFO Get User Fail :342--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-28 16:35:12.8618 INFO Get Product Type Master List Success
+2022-03-28 16:35:12.9321 INFO Get User Success :globus_disbo
+2022-03-28 16:35:14.4320 INFO Get User Success :342-Globus Spirits Limited, Bond Officer
+2022-03-28 16:35:14.8798 INFO Get Product Type Master List Success
+2022-03-28 16:35:14.9526 INFO Get User Success :globus_disbo
+2022-03-28 16:35:25.8729 INFO Get User Fail :342--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-28 16:35:26.1364 INFO Get Product Type Master List Success
+2022-03-28 16:35:26.2229 INFO Get User Success :globus_disbo
+2022-03-28 16:35:37.1812 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:35:37.3371 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:35:37.4646 INFO Get Product Type Master List Success
+2022-03-28 16:35:37.5327 INFO Get User Success :globus_dis
+2022-03-28 16:35:39.6786 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:35:43.8471 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:35:44.5011 INFO Get Product Type Master List Success
+2022-03-28 16:35:44.5743 INFO Get User Success :globus_dis
+2022-03-28 16:35:46.3460 INFO Get User Fail :341--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-28 16:35:46.6760 INFO Get Product Type Master List Success
+2022-03-28 16:35:46.7484 INFO Get User Success :globus_dis
+2022-03-28 16:35:48.1795 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:35:49.9199 INFO Get Product Type Master List Success
+2022-03-28 16:35:49.9931 INFO Get User Success :globus_dis
+2022-03-28 16:36:11.0990 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:36:15.6720 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:36:16.3223 INFO Get Product Type Master List Success
+2022-03-28 16:36:16.4013 INFO Get User Success :globus_dis
+2022-03-28 16:36:18.8199 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:36:18.8928 INFO Get Product Type Master List Success
+2022-03-28 16:36:18.9729 INFO Get User Success :globus_dis
+2022-03-28 16:36:20.7892 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 16:36:20.8795 INFO Get VAT Master List Success
+2022-03-28 16:36:20.9524 INFO Get Product Type Master List Success
+2022-03-28 16:36:21.0520 INFO Get User Success :globus_dis
+2022-03-28 17:00:40.7457 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:01:00.2706 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:01:00.4227 INFO Get Product Type Master List Success
+2022-03-28 17:01:00.5517 INFO Get User Success :globus_dis
+2022-03-28 17:01:15.1104 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:01:25.9002 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:01:26.9765 INFO Get Product Type Master List Success
+2022-03-28 17:01:27.0453 INFO Get User Success :globus_dis
+2022-03-28 17:01:31.1388 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:01:31.2006 INFO Get Product Type Master List Success
+2022-03-28 17:01:31.2694 INFO Get User Success :globus_dis
+2022-03-28 17:01:32.8439 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:01:32.9437 INFO Get VAT Master List Success
+2022-03-28 17:01:33.0337 INFO Get Product Type Master List Success
+2022-03-28 17:01:33.4344 INFO Get User Success :globus_dis
+2022-03-28 17:06:50.1035 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:06:50.1659 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:06:50.3054 INFO Get Product Type Master List Success
+2022-03-28 17:06:50.4082 INFO Get User Success :globus_dis
+2022-03-28 17:06:59.1710 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:06:59.2311 INFO Get Product Master List Success
+2022-03-28 17:10:22.0702 INFO Get RR List Success
+2022-03-28 17:10:22.1194 INFO Get Product Type Master List Success
+2022-03-28 17:10:22.2785 INFO Get User Success :globus_dis
+2022-03-28 17:44:07.0074 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:44:07.2779 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:44:07.4333 INFO Get Product Type Master List Success
+2022-03-28 17:44:07.5358 INFO Get User Success :globus_dis
+2022-03-28 17:45:21.5500 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:46:27.2423 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:46:28.2989 INFO Get Product Type Master List Success
+2022-03-28 17:46:28.3557 INFO Get User Success :globus_dis
+2022-03-28 17:47:42.3311 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:47:42.3810 INFO Get Product Type Master List Success
+2022-03-28 17:47:42.4349 INFO Get User Success :globus_dis
+2022-03-28 17:47:44.3144 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:47:44.3752 INFO Get VAT Master List Success
+2022-03-28 17:47:44.4361 INFO Get Product Type Master List Success
+2022-03-28 17:47:44.4919 INFO Get User Success :globus_dis
+2022-03-28 17:48:35.9933 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:48:36.0850 INFO Get Product Type Master List Success
+2022-03-28 17:48:36.1751 INFO Get User Success :globus_dis
+2022-03-28 17:48:40.1070 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:48:40.1575 INFO Get VAT Master List Success
+2022-03-28 17:48:40.3898 INFO Get Product Type Master List Success
+2022-03-28 17:48:40.4461 INFO Get User Success :globus_dis
+2022-03-28 17:49:05.3469 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:49:06.9325 INFO Get VAT Master List Success
+2022-03-28 17:49:06.9911 INFO Get Product Type Master List Success
+2022-03-28 17:49:07.0511 INFO Get User Success :globus_dis
+2022-03-28 17:49:11.7804 INFO Get User Success :341-Globus Spirits Limited
+2022-03-28 17:49:11.8335 INFO Get VAT Master List Success
+2022-03-28 17:49:11.9399 INFO Get Product Type Master List Success
+2022-03-28 17:49:11.9970 INFO Get User Success :globus_dis
+2022-03-28 17:49:27.4184 INFO Get User Success :341-Globus Spirits Limited

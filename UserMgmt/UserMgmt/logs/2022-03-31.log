@@ -1,0 +1,116 @@
+2022-03-31 13:03:51.2151 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-31 13:03:51.4253 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-31 13:03:52.1936 INFO Get Product Type Master List Success
+2022-03-31 13:03:52.2927 INFO Get User Success :kent_lab
+2022-03-31 13:04:02.2900 INFO Get User Success :363-Kent Homeopathic Laboratories
+2022-03-31 13:04:15.3296 INFO Get Product Type Master List Success
+2022-03-31 13:04:15.4098 INFO Get User Success :kent_lab
+2022-03-31 13:04:17.3105 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:04:17.3656 INFO Get Allotment List Success
+2022-03-31 13:04:17.4341 INFO Get Product Type Master List Success
+2022-03-31 13:04:17.5360 INFO Get User Success :kent_lab
+2022-03-31 13:04:20.1809 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:04:20.2327 INFO Get Product Master List Success
+2022-03-31 13:04:20.2984 INFO Get VAT Master List Success
+2022-03-31 13:04:20.4825 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-03-31 13:04:20.6051 INFO Get Product Type Master List Success
+2022-03-31 13:04:20.7044 INFO Get User Success :kent_lab
+2022-03-31 13:05:51.3971 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:05:51.4549 INFO Get Product Master List Success
+2022-03-31 13:05:51.5986 INFO Get VAT Master List Success
+2022-03-31 13:08:27.1189 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-03-31 13:08:30.9222 INFO Get Product Type Master List Success
+2022-03-31 13:08:31.0229 INFO Get User Success :kent_lab
+2022-03-31 13:09:15.2039 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:20:07.2730 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:20:07.3411 INFO Get Allotment List Success
+2022-03-31 13:20:07.3954 INFO Get Product Type Master List Success
+2022-03-31 13:20:07.6112 INFO Get User Success :kent_lab
+2022-03-31 13:20:09.7152 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:20:09.7653 INFO Get Product Master List Success
+2022-03-31 13:20:09.8642 INFO Get VAT Master List Success
+2022-03-31 13:20:12.8125 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-03-31 13:20:15.1921 INFO Get Product Type Master List Success
+2022-03-31 13:20:15.3080 INFO Get User Success :kent_lab
+2022-03-31 13:20:34.9307 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:22:18.4040 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:22:18.4781 INFO Get Allotment List Success
+2022-03-31 13:22:18.5618 INFO Get Product Type Master List Success
+2022-03-31 13:22:18.7067 INFO Get User Success :kent_lab
+2022-03-31 13:22:21.3170 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:22:21.3671 INFO Get Product Master List Success
+2022-03-31 13:22:21.5104 INFO Get VAT Master List Success
+2022-03-31 13:22:24.1845 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-03-31 13:22:26.0245 INFO Get Product Type Master List Success
+2022-03-31 13:22:26.1689 INFO Get User Success :kent_lab
+2022-03-31 13:22:34.0571 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:23:04.2552 INFO Update Allotment Success :-KNT
+2022-03-31 13:23:04.3458 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:23:04.4472 INFO Get Allotment List Success
+2022-03-31 13:23:04.4958 INFO Get Product Type Master List Success
+2022-03-31 13:23:04.6005 INFO Get User Success :kent_lab
+2022-03-31 13:23:06.5071 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:23:06.5826 INFO Get Product Master List Success
+2022-03-31 13:23:06.7132 INFO Get VAT Master List Success
+2022-03-31 13:23:09.6140 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-03-31 13:23:12.3268 INFO Get Product Type Master List Success
+2022-03-31 13:23:12.4566 INFO Get User Success :kent_lab
+2022-03-31 13:28:52.7878 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:29:18.9929 INFO Update Allotment Success :-KNT
+2022-03-31 13:29:19.0867 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:29:19.1419 INFO Get Allotment List Success
+2022-03-31 13:29:19.1901 INFO Get Product Type Master List Success
+2022-03-31 13:29:19.3019 INFO Get User Success :kent_lab
+2022-03-31 13:29:21.0210 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:29:21.0748 INFO Get Product Master List Success
+2022-03-31 13:29:21.1341 INFO Get VAT Master List Success
+2022-03-31 13:29:24.0192 INFO Get Allotment Details Success :Field not found in row: consumption_qty
+2022-03-31 13:29:27.0286 INFO Get Product Type Master List Success
+2022-03-31 13:29:27.1367 INFO Get User Success :kent_lab
+2022-03-31 13:30:03.1453 INFO Get User Fail :363--Index and length must refer to a location within the string.
+Parameter name: length
+2022-03-31 13:30:03.1987 INFO Get Product Master List Success
+2022-03-31 13:30:03.2943 INFO Get VAT Master List Success
+2022-03-31 14:39:51.3409 INFO Get User Success :341-Globus Spirits Limited
+2022-03-31 14:39:51.5860 INFO Get User Success :341-Globus Spirits Limited
+2022-03-31 14:39:51.7045 INFO Get Product Type Master List Success
+2022-03-31 14:39:51.7980 INFO Get User Success :globus_dis
+2022-03-31 14:39:55.0049 INFO Get User Success :341-Globus Spirits Limited
+2022-03-31 14:39:55.0658 INFO Get User Success :341-Globus Spirits Limited
+2022-03-31 14:39:55.2626 INFO Get Product Type Master List Success
+2022-03-31 14:39:55.3194 INFO Get User Success :globus_dis
+2022-03-31 14:39:59.0468 INFO Get User Success :341-Globus Spirits Limited
+2022-03-31 14:42:45.3834 INFO Get User Success :341-Globus Spirits Limited
+2022-03-31 14:44:33.6076 INFO Get RR List Success
+2022-03-31 14:44:33.6614 INFO Get Product Type Master List Success
+2022-03-31 14:44:33.8081 INFO Get User Success :globus_dis
+2022-03-31 15:03:03.6964 INFO Get User Success :341-Globus Spirits Limited
+2022-03-31 15:03:03.9046 INFO Get User Success :341-Globus Spirits Limited
+2022-03-31 15:03:04.0445 INFO Get Product Type Master List Success
+2022-03-31 15:03:04.1232 INFO Get User Success :globus_dis
+2022-03-31 15:03:18.6342 INFO Get User Success :341-Globus Spirits Limited
+2022-03-31 15:03:18.6961 INFO Get User Success :341-Globus Spirits Limited
+2022-03-31 15:03:18.8768 INFO Get Product Type Master List Success
+2022-03-31 15:03:18.9345 INFO Get User Success :globus_dis
+2022-03-31 15:03:21.0574 INFO Get User Success :341-Globus Spirits Limited
+2022-03-31 15:03:21.1876 INFO Get User Success :341-Globus Spirits Limited
+2022-03-31 15:03:21.2994 INFO Get Product Type Master List Success
+2022-03-31 15:03:21.3562 INFO Get User Success :globus_dis
+2022-03-31 15:03:27.1117 INFO Get Product Master List Success
+2022-03-31 15:03:27.2218 INFO Get User Success :341-Globus Spirits Limited
+2022-03-31 15:03:27.2721 INFO Get Balance Request Pass Success

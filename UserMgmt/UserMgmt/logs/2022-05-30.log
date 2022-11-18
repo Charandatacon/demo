@@ -1,0 +1,51 @@
+2022-05-30 16:02:24.4463 INFO Get User Success :3568-Similibus Research laboratory Pvt Ltd.
+2022-05-30 16:02:24.8962 INFO Get User Success :3568-Similibus Research laboratory Pvt Ltd.
+2022-05-30 16:02:25.4302 INFO Get Product Type Master List Success
+2022-05-30 16:02:25.5456 INFO Get User Success :similibus_lab
+2022-05-30 16:02:41.5341 INFO Get User Success :3568-Similibus Research laboratory Pvt Ltd.
+2022-05-30 16:02:45.6837 INFO Get Product Type Master List Success
+2022-05-30 16:02:45.7797 INFO Get User Success :similibus_lab
+2022-05-30 16:02:47.9040 INFO Get User Fail :3568--Index and length must refer to a location within the string.
+Parameter name: length
+2022-05-30 16:02:48.0345 INFO Get Allotment List Success
+2022-05-30 16:02:48.1078 INFO Get Product Type Master List Success
+2022-05-30 16:02:48.1831 INFO Get User Success :similibus_lab
+2022-05-30 16:02:50.6416 INFO Get User Fail :3568--Index and length must refer to a location within the string.
+Parameter name: length
+2022-05-30 16:02:50.7394 INFO Get Product Master List Success
+2022-05-30 16:02:50.8473 INFO Get VAT Master List Success
+2022-05-30 16:02:50.9313 INFO Get Product Type Master List Success
+2022-05-30 16:02:51.0183 INFO Get User Success :similibus_lab
+2022-05-30 16:05:21.1657 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-05-30 16:07:25.1878 INFO Get User Fail :3568--Index and length must refer to a location within the string.
+Parameter name: length
+2022-05-30 16:12:06.7753 INFO Insert Consumption Success :-SBL-Exception while reading from stream
+2022-05-30 16:12:43.7558 INFO Get User Fail :3568--Index and length must refer to a location within the string.
+Parameter name: length
+2022-05-30 16:12:43.9423 INFO Get Allotment List Success
+2022-05-30 16:12:44.0335 INFO Get Product Type Master List Success
+2022-05-30 16:12:44.1294 INFO Get User Success :similibus_lab
+2022-05-30 16:12:45.4410 INFO Get User Fail :3568--Index and length must refer to a location within the string.
+Parameter name: length
+2022-05-30 16:12:45.5295 INFO Get Product Master List Success
+2022-05-30 16:12:45.6296 INFO Get VAT Master List Success
+2022-05-30 16:12:45.7264 INFO Get Product Type Master List Success
+2022-05-30 16:12:45.8226 INFO Get User Success :similibus_lab
+2022-05-30 16:13:39.5591 INFO Get VAT Details Fail :Field not found in row: party_name
+2022-05-30 16:15:16.3365 INFO Get User Fail :0--Exception while reading from stream
+2022-05-30 16:26:00.6882 INFO Get User Success :341-Globus Spirits Limited
+2022-05-30 16:26:00.9473 INFO Get User Success :341-Globus Spirits Limited
+2022-05-30 16:26:01.1037 INFO Get Product Type Master List Success
+2022-05-30 16:26:01.1924 INFO Get User Success :globus_dis
+2022-05-30 16:26:44.6913 INFO Get User Success :341-Globus Spirits Limited
+2022-05-30 16:26:44.7643 INFO Get Product Master List Success
+2022-05-30 16:30:34.7946 INFO Get RR List Success
+2022-05-30 16:30:34.8927 INFO Get Product Type Master List Success
+2022-05-30 16:30:34.9746 INFO Get User Success :globus_dis
+2022-05-30 16:32:40.9705 INFO Get User Success :341-Globus Spirits Limited
+2022-05-30 16:32:41.0478 INFO Get Product Master List Success
+2022-05-30 16:32:41.3818 INFO Get State List Success
+2022-05-30 16:32:41.4586 INFO Get NOC Sucess:1294
+2022-05-30 16:32:41.6135 INFO Get NOC Sucess:Req/VA/GSL/NOC/2021-2022/34
+2022-05-30 16:32:41.7597 INFO Get Product Type Master List Success
+2022-05-30 16:32:41.8403 INFO Get User Success :globus_dis
